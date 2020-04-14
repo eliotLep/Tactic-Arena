@@ -1,0 +1,1487 @@
+MAP : 100 x 100 || Joueurs : 20 || UNITEE : 10 par joueurs
+| Unite de Joueur 0 en 64/89 se deplace vers 65/90
+| Unite de Joueur 0 en 65/90 se deplace vers 68/90
+| Unite de Joueur 0 en 64/91 se deplace vers 68/91
+| Unite de Joueur 0 en 68/90 se deplace vers 71/90
+| Unite de Joueur 0 en 64/90 se deplace vers 69/90
+| Unite de Joueur 1 en 94/68 se deplace vers 94/72
+| Unite de Joueur 1 en 94/65 se deplace vers 95/68
+| Unite de Joueur 1 en 93/64 se deplace vers 92/66
+| Unite de Joueur 1 en 95/68 se deplace vers 94/71
+| Unite de Joueur 1 en 94/66 se deplace vers 95/66
+| Unite de Joueur 2 en 27/63 se deplace vers 29/66
+| Unite de Joueur 2 en 28/61 soigne de 14 en 27/60
+| Unite de Joueur 2 en 28/59 se deplace vers 30/61
+| Unite de Joueur 2 en 28/60 se deplace vers 30/59
+| Unite de Joueur 2 en 26/63 se deplace vers 26/65
+| Unite de Joueur 3 en 13/38 se deplace vers 12/41
+| Unite de Joueur 3 en 14/37 se deplace vers 15/40
+| Unite de Joueur 3 en 15/40 se deplace vers 15/45
+| Unite de Joueur 3 en 13/36 se deplace vers 12/36
+| Unite de Joueur 3 en 13/39 se deplace vers 11/40
+| Unite de Joueur 4 en 51/57 se deplace vers 52/60
+| Unite de Joueur 4 en 50/55 se deplace vers 49/59
+| Unite de Joueur 4 en 51/58 soigne de 14 en 49/59
+| Unite de Joueur 4 en 51/55 se deplace vers 49/55
+| Unite de Joueur 4 en 50/56 se deplace vers 49/58
+| Unite de Joueur 5 en 14/98 se deplace vers 10/99
+| Unite de Joueur 5 en 10/99 se deplace vers 7/97
+| Unite de Joueur 5 en 14/99 soigne de 14 en 15/97
+| Unite de Joueur 5 en 7/97 se deplace vers 4/96
+| Unite de Joueur 5 en 15/98 se deplace vers 17/99
+| Unite de Joueur 6 en 45/78 se deplace vers 44/77
+| Unite de Joueur 6 en 46/76 se deplace vers 49/75
+| Unite de Joueur 6 en 45/79 soigne de 14 en 45/79
+| Unite de Joueur 6 en 45/76 se deplace vers 44/75
+| Unite de Joueur 6 en 46/77 se deplace vers 49/76
+| Unite de Joueur 7 en 31/98 se deplace vers 30/95
+| Unite de Joueur 7 en 31/97 se deplace vers 31/95
+| Unite de Joueur 7 en 32/97 se deplace vers 32/94
+| Unite de Joueur 7 en 31/95 se deplace vers 31/92
+| Unite de Joueur 7 en 31/99 soigne de 14 en 31/99
+| Unite de Joueur 8 en 6/64 soigne de 14 en 4/64
+| Unite de Joueur 8 en 6/64 soigne de 14 en 4/65
+| Unite de Joueur 8 en 4/65 se deplace vers 3/68
+| Unite de Joueur 8 en 5/67 se deplace vers 5/70
+| Unite de Joueur 8 en 5/65 se deplace vers 3/65
+| Unite de Joueur 9 en 32/71 se deplace vers 31/69
+| Unite de Joueur 9 en 34/68 se deplace vers 31/67
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/69
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/72
+| Unite de Joueur 2 en 29/66 block Unite de 9 en 31/69 
+| Unite de Joueur 10 en 41/21 se deplace vers 42/22
+| Unite de Joueur 10 en 42/18 se deplace vers 43/19
+| Unite de Joueur 10 en 42/22 se deplace vers 44/22
+| Unite de Joueur 10 en 41/19 se deplace vers 40/19
+| Unite de Joueur 10 en 43/17 se deplace vers 44/19
+| Unite de Joueur 11 en 56/32 soigne de 14 en 57/33
+| Unite de Joueur 11 en 56/31 se deplace vers 55/33
+| Unite de Joueur 11 en 57/33 se deplace vers 62/33
+| Unite de Joueur 11 en 57/34 se deplace vers 60/34
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 12 en 3/5 soigne de 14 en 4/5
+| Unite de Joueur 12 en 4/5 se deplace vers 8/6
+| Unite de Joueur 12 en 5/4 se deplace vers 9/5
+| Unite de Joueur 12 en 4/2 soigne de 14 en 4/2
+| Unite de Joueur 12 en 4/6 se deplace vers 4/9
+| Unite de Joueur 13 en 1/81 se deplace vers 0/84
+| Unite de Joueur 13 en 3/80 se deplace vers 4/83
+| Unite de Joueur 13 en 2/81 se deplace vers 0/83
+| Unite de Joueur 13 en 0/84 se deplace vers 0/88
+| Unite de Joueur 13 en 2/80 soigne de 14 en 3/79
+| Unite de Joueur 14 en 0/92 attaque pour 23 en 0/88
+| Unite de Joueur 14 en 1/95 se deplace vers 3/96
+| Unite de Joueur 14 en 1/91 attaque pour 23 en 0/88
+| Unite de Joueur 14 en 1/91 tue Unite de 13 en 0/88
+| Unite de Joueur 14 en 0/95 se deplace vers 2/97
+| Unite de Joueur 14 en 2/92 se deplace vers 2/94
+| Unite de Joueur 15 en 89/90 se deplace vers 86/90
+| Unite de Joueur 15 en 90/88 se deplace vers 92/87
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 90/89 se deplace vers 92/88
+| Unite de Joueur 15 en 90/92 soigne de 14 en 90/92
+| Unite de Joueur 16 en 53/25 se deplace vers 55/26
+| Unite de Joueur 16 en 52/22 se deplace vers 48/22
+| Unite de Joueur 16 en 54/22 se deplace vers 52/21
+| Unite de Joueur 16 en 52/24 se deplace vers 48/23
+| Unite de Joueur 16 en 53/23 se deplace vers 54/20
+| Unite de Joueur 17 en 72/38 se deplace vers 70/37
+| Unite de Joueur 17 en 72/39 se deplace vers 72/38
+| Unite de Joueur 17 en 72/37 se deplace vers 70/34
+| Unite de Joueur 17 en 72/38 se deplace vers 72/36
+| Unite de Joueur 17 en 73/39 se deplace vers 70/38
+| Unite de Joueur 18 en 50/64 se deplace vers 49/60
+| Unite de Joueur 18 en 49/67 se deplace vers 50/65
+| Unite de Joueur 18 en 49/60 attaque pour 29 en 49/58
+| Unite de Joueur 18 en 49/66 se deplace vers 51/65
+| Unite de Joueur 18 en 48/65 se deplace vers 44/65
+| Unite de Joueur 19 en 31/88 se deplace vers 32/89
+| Unite de Joueur 19 en 31/87 se deplace vers 34/87
+| Unite de Joueur 19 en 31/86 se deplace vers 28/85
+| Unite de Joueur 19 en 30/88 se deplace vers 29/92
+| Unite de Joueur 19 en 30/87 se deplace vers 29/88
+| Unite de Joueur 0 en 71/90 se deplace vers 73/90
+| Unite de Joueur 0 en 69/90 se deplace vers 73/89
+| Unite de Joueur 0 en 64/93 se deplace vers 67/93
+| Unite de Joueur 0 en 73/89 se deplace vers 76/91
+| Unite de Joueur 0 en 63/91 se deplace vers 66/92
+| Unite de Joueur 1 en 92/66 se deplace vers 92/68
+| Unite de Joueur 1 en 93/67 se deplace vers 91/67
+| Unite de Joueur 1 en 95/66 se deplace vers 95/68
+| Unite de Joueur 1 en 94/64 soigne de 14 en 94/64
+| Unite de Joueur 1 en 91/67 se deplace vers 91/68
+| Unite de Joueur 2 en 30/61 se deplace vers 30/65
+| Unite de Joueur 2 en 28/62 se deplace vers 29/64
+| Unite de Joueur 2 en 30/59 se deplace vers 30/62
+| Unite de Joueur 2 en 27/62 se deplace vers 29/63
+| Unite de Joueur 2 en 27/60 se deplace vers 30/60
+| Unite de Joueur 3 en 14/39 se deplace vers 12/39
+| Unite de Joueur 3 en 14/38 se deplace vers 11/39
+| Unite de Joueur 3 en 13/40 se deplace vers 11/38
+| Unite de Joueur 3 en 12/39 se deplace vers 12/37
+| Unite de Joueur 3 en 13/37 se deplace vers 13/34
+| Unite de Joueur 4 en 50/57 se deplace vers 48/59
+| Unite de Joueur 4 en 48/59 se deplace vers 48/60
+| Unite de Joueur 4 en 49/58 attaque pour 21 en 49/60
+| Unite de Joueur 4 en 49/59 attaque pour 31 en 49/60
+| Unite de Joueur 4 en 49/59 tue Unite de 18 en 49/60
+| Unite de Joueur 4 en 51/58 soigne de 14 en 49/58
+| Unite de Joueur 5 en 15/97 se deplace vers 12/99
+| Unite de Joueur 5 en 14/96 se deplace vers 11/95
+| Unite de Joueur 5 en 4/96 attaque pour 33 en 3/96
+| Unite de Joueur 5 en 11/95 se deplace vers 8/94
+| Unite de Joueur 5 en 17/99 se deplace vers 21/99
+| Unite de Joueur 6 en 46/78 se deplace vers 46/77
+| Unite de Joueur 6 en 45/77 soigne de 14 en 45/77
+| Unite de Joueur 6 en 49/76 se deplace vers 50/73
+| Unite de Joueur 6 en 50/73 attaque pour 14 en 49/68
+| Unite de Joueur 6 en 46/79 se deplace vers 47/77
+| Unite de Joueur 7 en 31/92 attaque pour 25 en 29/92
+| Unite de Joueur 7 en 31/92 tue Unite de 19 en 29/92
+| Unite de Joueur 7 en 31/99 soigne de 14 en 31/99
+| Unite de Joueur 7 en 31/92 attaque pour 26 en 30/89
+| Unite de Joueur 7 en 31/92 tue Unite de 19 en 30/89
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 7 en 34/98 se deplace vers 38/98
+| Unite de Joueur 8 en 6/64 soigne de 14 en 6/64
+| Unite de Joueur 8 en 3/65 se deplace vers 3/67
+| Unite de Joueur 8 en 4/68 se deplace vers 4/72
+| Unite de Joueur 8 en 4/72 se deplace vers 5/75
+| Unite de Joueur 8 en 5/70 se deplace vers 5/74
+| Unite de Joueur 9 en 33/69 se deplace vers 36/67
+| Unite de Joueur 9 en 36/67 se deplace vers 34/64
+| Unite de Joueur 9 en 31/67 se deplace vers 30/66
+| Unite de Joueur 2 en 29/66 block Unite de 9 en 31/69 
+| Unite de Joueur 9 en 31/69 attaque pour 20 en 29/66
+| Unite de Joueur 10 en 42/17 se deplace vers 45/18
+| Unite de Joueur 10 en 41/18 se deplace vers 42/17
+| Unite de Joueur 10 en 44/22 attaque pour 25 en 48/23
+| Unite de Joueur 10 en 44/22 tue Unite de 16 en 48/23
+| Unite de Joueur 10 en 40/19 se deplace vers 40/20
+| Unite de Joueur 10 en 40/20 se deplace vers 40/21
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 11 en 57/30 se deplace vers 57/29
+| Unite de Joueur 11 en 57/32 se deplace vers 58/31
+| Unite de Joueur 11 en 62/33 se deplace vers 65/34
+| Unite de Joueur 11 en 60/34 se deplace vers 61/35
+| Unite de Joueur 12 en 4/2 soigne de 14 en 4/2
+| Unite de Joueur 12 en 4/4 se deplace vers 4/8
+| Unite de Joueur 12 en 3/4 se deplace vers 2/7
+| Unite de Joueur 12 en 4/8 se deplace vers 3/11
+| Unite de Joueur 12 en 4/9 se deplace vers 4/11
+| Unite de Joueur 13 en 1/82 se deplace vers 1/84
+| Unite de Joueur 13 en 4/83 se deplace vers 4/79
+| Unite de Joueur 13 en 1/84 se deplace vers 1/86
+| Unite de Joueur 13 en 3/79 se deplace vers 5/78
+| Unite de Joueur 13 en 1/86 se deplace vers 2/87
+| Unite de Joueur 14 en 2/91 attaque pour 16 en 2/87
+| Unite de Joueur 14 en 0/94 se deplace vers 0/98
+| Unite de Joueur 14 en 2/97 se deplace vers 4/97
+| Unite de Joueur 14 en 0/91 se deplace vers 0/87
+| Unite de Joueur 14 en 0/98 se deplace vers 4/98
+| Unite de Joueur 15 en 92/88 se deplace vers 93/85
+| Unite de Joueur 15 en 86/90 se deplace vers 84/91
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 89/91 se deplace vers 86/90
+| Unite de Joueur 15 en 84/91 se deplace vers 81/91
+| Unite de Joueur 16 en 55/26 se deplace vers 57/27
+| Unite de Joueur 16 en 53/26 se deplace vers 55/25
+| Unite de Joueur 16 en 57/27 attaque pour 25 en 56/30
+| Unite de Joueur 16 en 53/24 se deplace vers 55/24
+| Unite de Joueur 16 en 55/24 se deplace vers 56/25
+| Unite de Joueur 17 en 70/38 se deplace vers 69/36
+| Unite de Joueur 17 en 73/40 se deplace vers 72/39
+| Unite de Joueur 17 en 70/34 se deplace vers 66/34
+| Unite de Joueur 17 en 72/40 se deplace vers 71/38
+| Unite de Joueur 17 en 72/36 se deplace vers 72/35
+| Unite de Joueur 18 en 49/65 se deplace vers 52/66
+| Unite de Joueur 18 en 48/68 se deplace vers 48/70
+| Unite de Joueur 18 en 51/65 se deplace vers 51/61
+| Unite de Joueur 18 en 52/66 se deplace vers 52/63
+| Unite de Joueur 18 en 48/70 attaque pour 23 en 50/73
+| Unite de Joueur 19 en 31/89 se deplace vers 29/91
+| Unite de Joueur 19 en 32/89 se deplace vers 32/91
+| Unite de Joueur 19 en 29/91 se deplace vers 30/92
+| Unite de Joueur 19 en 30/92 attaque pour 19 en 31/92
+| Unite de Joueur 7 en 31/92 block Unite de 19 en 31/90 
+| Unite de Joueur 0 en 63/90 soigne de 14 en 63/90
+| Unite de Joueur 0 en 76/91 se deplace vers 80/91
+| Unite de Joueur 15 en 81/91 block Unite de 0 en 80/91 
+| Unite de Joueur 0 en 73/90 se deplace vers 75/91
+| Unite de Joueur 0 en 64/92 se deplace vers 65/94
+| Unite de Joueur 1 en 93/66 se deplace vers 95/66
+| Unite de Joueur 1 en 92/68 se deplace vers 94/69
+| Unite de Joueur 1 en 91/68 se deplace vers 89/68
+| Unite de Joueur 1 en 95/68 se deplace vers 95/70
+| Unite de Joueur 1 en 94/71 se deplace vers 93/74
+| Unite de Joueur 2 en 30/65 attaque pour 21 en 34/64
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 29/64 attaque pour 26 en 30/66
+| Unite de Joueur 2 en 29/63 attaque pour 26 en 30/66
+| Unite de Joueur 2 en 29/63 tue Unite de 9 en 30/66
+| Unite de Joueur 3 en 15/36 se deplace vers 15/32
+| Unite de Joueur 3 en 13/34 se deplace vers 13/30
+| Unite de Joueur 3 en 11/40 se deplace vers 10/42
+| Unite de Joueur 3 en 12/41 se deplace vers 9/43
+| Unite de Joueur 3 en 12/37 se deplace vers 12/40
+| Unite de Joueur 4 en 49/59 se deplace vers 50/61
+| Unite de Joueur 4 en 51/56 se deplace vers 53/59
+| Unite de Joueur 4 en 51/58 soigne de 14 en 49/58
+| Unite de Joueur 4 en 50/54 se deplace vers 51/57
+| Unite de Joueur 4 en 52/60 se deplace vers 52/61
+| Unite de Joueur 5 en 14/99 soigne de 14 en 14/99
+| Unite de Joueur 5 en 14/95 se deplace vers 14/93
+| Unite de Joueur 5 en 21/99 se deplace vers 25/99
+| Unite de Joueur 5 en 14/99 soigne de 14 en 14/99
+| Unite de Joueur 5 en 14/97 se deplace vers 13/94
+| Unite de Joueur 6 en 45/79 soigne de 14 en 45/79
+| Unite de Joueur 6 en 45/77 soigne de 14 en 45/77
+| Unite de Joueur 6 en 50/73 attaque pour 14 en 49/68
+| Unite de Joueur 6 en 46/77 se deplace vers 47/76
+| Unite de Joueur 6 en 44/77 se deplace vers 43/76
+| Unite de Joueur 7 en 34/97 se deplace vers 35/99
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 7 en 30/95 attaque pour 20 en 30/90
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 7 en 30/95 attaque pour 20 en 30/90
+| Unite de Joueur 7 en 30/95 tue Unite de 19 en 30/90
+| Unite de Joueur 8 en 3/68 se deplace vers 3/72
+| Unite de Joueur 8 en 5/74 se deplace vers 6/78
+| Unite de Joueur 13 en 3/78 block Unite de 8 en 6/78 
+| Unite de Joueur 8 en 4/66 se deplace vers 2/68
+| Unite de Joueur 8 en 4/64 se deplace vers 2/67
+| Unite de Joueur 9 en 33/70 se deplace vers 34/67
+| Unite de Joueur 9 en 32/69 se deplace vers 34/72
+| Unite de Joueur 9 en 34/67 se deplace vers 30/66
+| Unite de Joueur 9 en 30/66 attaque pour 30 en 29/66
+| Unite de Joueur 9 en 30/66 tue Unite de 2 en 29/66
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 10 en 42/21 se deplace vers 42/23
+| Unite de Joueur 10 en 44/19 se deplace vers 45/22
+| Unite de Joueur 10 en 42/23 se deplace vers 44/24
+| Unite de Joueur 10 en 42/20 se deplace vers 42/24
+| Unite de Joueur 10 en 42/17 se deplace vers 43/18
+| Unite de Joueur 11 en 65/34 attaque pour 31 en 66/34
+| Unite de Joueur 11 en 65/34 tue Unite de 17 en 66/34
+| Unite de Joueur 11 en 58/31 se deplace vers 58/29
+| Unite de Joueur 11 en 61/35 se deplace vers 62/36
+| Unite de Joueur 11 en 55/33 se deplace vers 57/35
+| Unite de Joueur 16 en 57/27 block Unite de 11 en 57/31 
+| Unite de Joueur 12 en 9/5 se deplace vers 10/9
+| Unite de Joueur 12 en 10/9 se deplace vers 12/12
+| Unite de Joueur 12 en 3/6 se deplace vers 3/7
+| Unite de Joueur 12 en 3/11 se deplace vers 3/15
+| Unite de Joueur 12 en 4/11 se deplace vers 4/13
+| Unite de Joueur 13 en 4/79 se deplace vers 6/79
+| Unite de Joueur 13 en 2/87 se deplace vers 1/87
+| Unite de Joueur 13 en 1/87 attaque pour 18 en 0/87
+| Unite de Joueur 13 en 1/87 attaque pour 18 en 0/87
+| Unite de Joueur 13 en 1/87 tue Unite de 14 en 0/87
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 14 en 2/91 attaque pour 16 en 1/87
+| Unite de Joueur 14 en 4/97 attaque pour 19 en 4/96
+| Unite de Joueur 14 en 0/92 se deplace vers 0/89
+| Unite de Joueur 14 en 2/94 se deplace vers 3/95
+| Unite de Joueur 14 en 3/95 se deplace vers 4/95
+| Unite de Joueur 15 en 92/87 se deplace vers 92/84
+| Unite de Joueur 15 en 90/92 soigne de 14 en 90/92
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 90/90 se deplace vers 88/90
+| Unite de Joueur 15 en 86/90 se deplace vers 84/92
+| Unite de Joueur 16 en 54/20 se deplace vers 52/18
+| Unite de Joueur 10 en 44/22 block Unite de 16 en 48/22 
+| Unite de Joueur 16 en 56/25 se deplace vers 57/26
+| Unite de Joueur 16 en 52/26 se deplace vers 53/25
+| Unite de Joueur 16 en 52/25 se deplace vers 49/24
+| Unite de Joueur 17 en 72/35 se deplace vers 70/35
+| Unite de Joueur 17 en 72/41 se deplace vers 71/40
+| Unite de Joueur 17 en 72/39 se deplace vers 71/39
+| Unite de Joueur 17 en 73/38 se deplace vers 72/40
+| Unite de Joueur 17 en 72/40 se deplace vers 70/40
+| Unite de Joueur 18 en 44/65 se deplace vers 43/62
+| Unite de Joueur 18 en 49/68 se deplace vers 50/68
+| Unite de Joueur 18 en 48/67 se deplace vers 50/66
+| Unite de Joueur 18 en 50/65 attaque pour 25 en 50/61
+| Unite de Joueur 18 en 49/64 se deplace vers 49/61
+| Unite de Joueur 19 en 29/88 se deplace vers 29/89
+| Unite de Joueur 7 en 31/92 block Unite de 19 en 31/90 
+| Unite de Joueur 19 en 32/91 attaque pour 19 en 31/92
+| Unite de Joueur 19 en 32/91 tue Unite de 7 en 31/92
+| Unite de Joueur 19 en 30/92 se deplace vers 30/94
+| Unite de Joueur 19 en 34/87 se deplace vers 34/90
+| Unite de Joueur 0 en 65/94 se deplace vers 68/94
+| Unite de Joueur 0 en 68/94 se deplace vers 70/93
+| Unite de Joueur 0 en 67/93 se deplace vers 70/94
+| Unite de Joueur 0 en 63/93 se deplace vers 65/93
+| Unite de Joueur 0 en 65/93 se deplace vers 67/93
+| Unite de Joueur 1 en 93/68 se deplace vers 96/70
+| Unite de Joueur 1 en 94/67 se deplace vers 95/69
+| Unite de Joueur 1 en 96/70 se deplace vers 97/74
+| Unite de Joueur 1 en 89/68 se deplace vers 87/68
+| Unite de Joueur 1 en 94/72 se deplace vers 92/73
+| Unite de Joueur 2 en 26/65 se deplace vers 27/66
+| Unite de Joueur 9 en 30/66 block Unite de 2 en 30/62 
+| Unite de Joueur 2 en 27/66 se deplace vers 28/66
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 2 en 29/63 attaque pour 26 en 30/66
+| Unite de Joueur 2 en 29/63 tue Unite de 9 en 30/66
+| Unite de Joueur 3 en 10/42 se deplace vers 10/45
+| Unite de Joueur 3 en 12/40 se deplace vers 12/37
+| Unite de Joueur 3 en 15/32 se deplace vers 15/28
+| Unite de Joueur 3 en 10/45 se deplace vers 10/47
+| Unite de Joueur 3 en 15/45 se deplace vers 15/50
+| Unite de Joueur 4 en 51/57 attaque pour 20 en 51/61
+| Unite de Joueur 4 en 49/55 se deplace vers 49/57
+| Unite de Joueur 4 en 53/59 se deplace vers 51/62
+| Unite de Joueur 4 en 51/54 se deplace vers 55/54
+| Unite de Joueur 4 en 49/57 se deplace vers 48/58
+| Unite de Joueur 14 en 4/95 block Unite de 5 en 8/94 
+| Unite de Joueur 5 en 15/96 se deplace vers 14/95
+| Unite de Joueur 5 en 12/99 se deplace vers 8/98
+| Unite de Joueur 5 en 8/98 se deplace vers 5/98
+| Unite de Joueur 5 en 15/95 se deplace vers 13/95
+| Unite de Joueur 18 en 50/68 block Unite de 6 en 50/73 
+| Unite de Joueur 18 en 50/68 block Unite de 6 en 50/73 
+| Unite de Joueur 6 en 47/77 se deplace vers 50/76
+| Unite de Joueur 6 en 50/76 se deplace vers 49/73
+| Unite de Joueur 6 en 50/73 attaque pour 14 en 50/68
+| Unite de Joueur 6 en 50/73 tue Unite de 18 en 50/68
+| Unite de Joueur 7 en 33/99 se deplace vers 34/98
+| Unite de Joueur 7 en 33/98 se deplace vers 34/99
+| Unite de Joueur 7 en 31/99 soigne de 14 en 31/99
+| Unite de Joueur 7 en 32/99 se deplace vers 33/99
+| Unite de Joueur 7 en 35/99 se deplace vers 38/99
+| Unite de Joueur 8 en 6/78 attaque pour 29 en 3/78
+| Unite de Joueur 8 en 3/67 se deplace vers 3/69
+| Unite de Joueur 8 en 5/68 se deplace vers 5/72
+| Unite de Joueur 8 en 2/68 se deplace vers 2/71
+| Unite de Joueur 8 en 6/78 attaque pour 29 en 3/78
+| Unite de Joueur 8 en 6/78 tue Unite de 13 en 3/78
+| Unite de Joueur 9 en 31/69 attaque pour 20 en 30/65
+| Unite de Joueur 9 en 32/68 attaque pour 20 en 30/65
+| Unite de Joueur 9 en 32/68 tue Unite de 2 en 30/65
+| Unite de Joueur 9 en 31/69 se deplace vers 30/66
+| Unite de Joueur 9 en 34/64 se deplace vers 30/64
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 10 en 40/21 se deplace vers 41/22
+| Unite de Joueur 10 en 43/19 se deplace vers 45/19
+| Unite de Joueur 10 en 45/22 attaque pour 20 en 48/22
+| Unite de Joueur 10 en 43/18 se deplace vers 43/17
+| Unite de Joueur 10 en 42/24 se deplace vers 45/25
+| Unite de Joueur 11 en 57/31 attaque pour 25 en 57/27
+| Unite de Joueur 16 en 57/27 block Unite de 11 en 57/31 
+| Unite de Joueur 11 en 57/29 se deplace vers 57/28
+| Unite de Joueur 11 en 57/31 attaque pour 25 en 57/27
+| Unite de Joueur 11 en 57/31 tue Unite de 16 en 57/27
+| Unite de Joueur 11 en 56/34 soigne de 14 en 56/34
+| Unite de Joueur 12 en 2/7 se deplace vers 2/10
+| Unite de Joueur 12 en 2/10 se deplace vers 2/14
+| Unite de Joueur 12 en 5/2 se deplace vers 6/4
+| Unite de Joueur 12 en 3/5 soigne de 14 en 3/5
+| Unite de Joueur 12 en 3/7 se deplace vers 3/8
+| Unite de Joueur 13 en 0/83 se deplace vers 0/87
+| Unite de Joueur 13 en 1/80 se deplace vers 3/80
+| Unite de Joueur 13 en 1/87 se deplace vers 2/88
+| Unite de Joueur 13 en 2/78 se deplace vers 5/77
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 14 en 4/97 attaque pour 19 en 4/96
+| Unite de Joueur 14 en 4/97 tue Unite de 5 en 4/96
+| Unite de Joueur 14 en 3/96 se deplace vers 5/97
+| Unite de Joueur 14 en 4/95 se deplace vers 4/96
+| Unite de Joueur 14 en 4/96 se deplace vers 6/96
+| Unite de Joueur 14 en 4/98 attaque pour 19 en 5/98
+| Unite de Joueur 14 en 1/91 attaque pour 17 en 2/88
+| Unite de Joueur 14 en 1/91 tue Unite de 13 en 2/88
+| Unite de Joueur 15 en 88/90 se deplace vers 85/90
+| Unite de Joueur 15 en 90/92 soigne de 14 en 90/92
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 89/88 se deplace vers 87/86
+| Unite de Joueur 16 en 53/22 se deplace vers 50/23
+| Unite de Joueur 16 en 57/26 se deplace vers 57/27
+| Unite de Joueur 16 en 50/23 se deplace vers 47/23
+| Unite de Joueur 16 en 52/21 se deplace vers 48/21
+| Unite de Joueur 16 en 55/25 se deplace vers 57/26
+| Unite de Joueur 17 en 71/40 se deplace vers 71/41
+| Unite de Joueur 17 en 71/39 se deplace vers 70/39
+| Unite de Joueur 17 en 71/38 se deplace vers 69/38
+| Unite de Joueur 17 en 70/39 se deplace vers 69/39
+| Unite de Joueur 17 en 70/37 se deplace vers 68/36
+| Unite de Joueur 4 en 50/61 block Unite de 18 en 50/65 
+| Unite de Joueur 4 en 50/61 block Unite de 18 en 50/65 
+| Unite de Joueur 18 en 52/63 attaque pour 19 en 51/62
+| Unite de Joueur 18 en 48/66 se deplace vers 48/65
+| Unite de Joueur 6 en 50/73 block Unite de 18 en 48/70 
+| Unite de Joueur 19 en 31/90 se deplace vers 31/94
+| Unite de Joueur 19 en 32/86 se deplace vers 32/89
+| Unite de Joueur 19 en 32/89 se deplace vers 33/92
+| Unite de Joueur 19 en 29/89 se deplace vers 29/90
+| Unite de Joueur 19 en 30/94 attaque pour 18 en 30/95
+| Unite de Joueur 0 en 66/92 se deplace vers 69/92
+| Unite de Joueur 0 en 63/92 soigne de 14 en 63/92
+| Unite de Joueur 0 en 63/90 soigne de 14 en 63/90
+| Unite de Joueur 0 en 63/89 se deplace vers 64/90
+| Unite de Joueur 0 en 63/90 soigne de 14 en 63/90
+| Unite de Joueur 1 en 95/66 se deplace vers 98/66
+| Unite de Joueur 1 en 94/64 soigne de 14 en 94/64
+| Unite de Joueur 1 en 93/74 se deplace vers 92/77
+| Unite de Joueur 1 en 87/68 se deplace vers 86/69
+| Unite de Joueur 1 en 93/65 se deplace vers 94/65
+| Unite de Joueur 2 en 28/66 se deplace vers 29/66
+| Unite de Joueur 2 en 29/63 attaque pour 27 en 30/64
+| Unite de Joueur 2 en 29/63 tue Unite de 9 en 30/64
+| Unite de Joueur 2 en 29/64 attaque pour 23 en 30/66
+| Unite de Joueur 2 en 29/66 attaque pour 18 en 30/66
+| Unite de Joueur 2 en 29/66 tue Unite de 9 en 30/66
+| Unite de Joueur 2 en 27/61 se deplace vers 27/65
+| Unite de Joueur 3 en 11/39 se deplace vers 13/36
+| Unite de Joueur 3 en 12/36 se deplace vers 10/36
+| Unite de Joueur 3 en 11/38 se deplace vers 9/36
+| Unite de Joueur 3 en 12/37 se deplace vers 15/37
+| Unite de Joueur 3 en 10/36 se deplace vers 10/35
+| Unite de Joueur 4 en 48/60 se deplace vers 48/61
+| Unite de Joueur 4 en 51/57 attaque pour 20 en 51/61
+| Unite de Joueur 4 en 51/57 tue Unite de 18 en 51/61
+| Unite de Joueur 4 en 51/57 se deplace vers 47/57
+| Unite de Joueur 4 en 52/61 se deplace vers 52/62
+| Unite de Joueur 4 en 48/58 se deplace vers 48/60
+| Unite de Joueur 5 en 14/99 soigne de 14 en 14/99
+| Unite de Joueur 5 en 13/95 se deplace vers 11/93
+| Unite de Joueur 5 en 11/93 se deplace vers 8/93
+| Unite de Joueur 5 en 14/95 se deplace vers 14/97
+| Unite de Joueur 5 en 14/99 soigne de 14 en 14/99
+| Unite de Joueur 6 en 47/76 se deplace vers 49/76
+| Unite de Joueur 6 en 49/73 attaque pour 21 en 48/70
+| Unite de Joueur 6 en 45/77 soigne de 14 en 45/77
+| Unite de Joueur 6 en 50/73 attaque pour 22 en 48/70
+| Unite de Joueur 6 en 50/73 tue Unite de 18 en 48/70
+| Unite de Joueur 6 en 49/73 se deplace vers 50/70
+| Unite de Joueur 7 en 34/99 se deplace vers 36/99
+| Unite de Joueur 7 en 38/99 se deplace vers 39/97
+| Unite de Joueur 7 en 36/99 se deplace vers 38/99
+| Unite de Joueur 7 en 38/98 se deplace vers 41/97
+| Unite de Joueur 7 en 41/97 se deplace vers 42/94
+| Unite de Joueur 8 en 5/64 se deplace vers 6/65
+| Unite de Joueur 8 en 3/72 se deplace vers 5/74
+| Unite de Joueur 8 en 5/72 attaque pour 22 en 5/77
+| Unite de Joueur 8 en 6/78 attaque pour 34 en 5/77
+| Unite de Joueur 8 en 6/78 tue Unite de 13 en 5/77
+| Unite de Joueur 8 en 6/78 attaque pour 34 en 5/78
+| Unite de Joueur 9 en 32/72 se deplace vers 31/68
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 9 en 33/71 se deplace vers 31/69
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 2 en 29/66 block Unite de 9 en 32/68 
+| Unite de Joueur 10 en 43/17 se deplace vers 44/17
+| Unite de Joueur 16 en 49/24 block Unite de 10 en 45/25 
+| Unite de Joueur 10 en 41/20 se deplace vers 42/18
+| Unite de Joueur 10 en 44/24 attaque pour 26 en 47/23
+| Unite de Joueur 10 en 44/17 se deplace vers 45/17
+| Unite de Joueur 11 en 58/29 se deplace vers 58/28
+| Unite de Joueur 11 en 62/36 se deplace vers 65/36
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/30
+| Unite de Joueur 16 en 57/27 block Unite de 11 en 56/30 
+| Unite de Joueur 16 en 57/27 block Unite de 11 en 57/28 
+| Unite de Joueur 12 en 12/12 se deplace vers 11/16
+| Unite de Joueur 12 en 4/2 soigne de 14 en 4/2
+| Unite de Joueur 12 en 5/3 se deplace vers 5/5
+| Unite de Joueur 12 en 4/2 se deplace vers 7/2
+| Unite de Joueur 12 en 7/2 soigne de 14 en 7/2
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 13 en 5/78 attaque pour 31 en 6/78
+| Unite de Joueur 13 en 5/78 tue Unite de 8 en 6/78
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 13 en 5/78 se deplace vers 5/76
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 14 en 5/97 attaque pour 19 en 5/98
+| Unite de Joueur 14 en 1/91 se deplace vers 2/89
+| Unite de Joueur 14 en 5/97 attaque pour 19 en 5/98
+| Unite de Joueur 14 en 5/97 tue Unite de 5 en 5/98
+| Unite de Joueur 14 en 0/89 attaque pour 23 en 0/87
+| Unite de Joueur 14 en 2/91 se deplace vers 3/90
+| Unite de Joueur 14 en 1/94 se deplace vers 3/94
+| Unite de Joueur 15 en 85/90 se deplace vers 83/91
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 84/92 attaque pour 21 en 80/91
+| Unite de Joueur 15 en 90/92 soigne de 14 en 90/92
+| Unite de Joueur 10 en 44/22 block Unite de 16 en 48/21 
+| Unite de Joueur 16 en 53/25 se deplace vers 56/25
+| Unite de Joueur 16 en 49/24 attaque pour 21 en 44/24
+| Unite de Joueur 16 en 47/23 se deplace vers 46/22
+| Unite de Joueur 16 en 57/27 attaque pour 13 en 57/28
+| Unite de Joueur 11 en 65/36 block Unite de 17 en 68/36 
+| Unite de Joueur 17 en 70/40 se deplace vers 69/37
+| Unite de Joueur 17 en 70/35 se deplace vers 69/34
+| Unite de Joueur 17 en 69/36 attaque pour 21 en 65/36
+| Unite de Joueur 17 en 68/36 attaque pour 25 en 65/36
+| Unite de Joueur 17 en 68/36 tue Unite de 11 en 65/36
+| Unite de Joueur 18 en 50/65 attaque pour 25 en 51/62
+| Unite de Joueur 18 en 50/65 tue Unite de 4 en 51/62
+| Unite de Joueur 18 en 43/62 attaque pour 22 en 48/61
+| Unite de Joueur 18 en 49/61 attaque pour 19 en 50/61
+| Unite de Joueur 18 en 49/61 tue Unite de 4 en 50/61
+| Unite de Joueur 18 en 50/65 se deplace vers 51/67
+| Unite de Joueur 4 en 48/61 block Unite de 18 en 43/62 
+| Unite de Joueur 6 en 50/70 block Unite de 18 en 50/66 
+| Unite de Joueur 19 en 28/85 se deplace vers 28/89
+| Unite de Joueur 19 en 34/90 se deplace vers 31/91
+| Unite de Joueur 19 en 32/91 se deplace vers 32/92
+| Unite de Joueur 19 en 31/94 attaque pour 29 en 30/95
+| Unite de Joueur 19 en 31/94 tue Unite de 7 en 30/95
+| Unite de Joueur 19 en 29/90 se deplace vers 29/92
+| Unite de Joueur 0 en 67/93 se deplace vers 67/95
+| Unite de Joueur 0 en 68/91 se deplace vers 70/92
+| Unite de Joueur 0 en 67/95 se deplace vers 69/95
+| Unite de Joueur 0 en 64/90 se deplace vers 66/90
+| Unite de Joueur 0 en 80/91 attaque pour 31 en 81/91
+| Unite de Joueur 0 en 80/91 tue Unite de 15 en 81/91
+| Unite de Joueur 1 en 92/77 se deplace vers 92/81
+| Unite de Joueur 1 en 92/73 se deplace vers 92/77
+| Unite de Joueur 1 en 95/69 se deplace vers 97/70
+| Unite de Joueur 1 en 86/69 se deplace vers 86/71
+| Unite de Joueur 1 en 94/65 se deplace vers 96/65
+| Unite de Joueur 2 en 30/60 se deplace vers 31/64
+| Unite de Joueur 2 en 31/64 se deplace vers 31/67
+| Unite de Joueur 2 en 29/63 se deplace vers 30/65
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 30/62 se deplace vers 31/64
+| Unite de Joueur 3 en 13/36 se deplace vers 13/32
+| Unite de Joueur 3 en 13/30 se deplace vers 11/28
+| Unite de Joueur 3 en 10/47 se deplace vers 10/50
+| Unite de Joueur 3 en 10/35 se deplace vers 10/33
+| Unite de Joueur 3 en 15/50 se deplace vers 15/54
+| Unite de Joueur 18 en 49/61 block Unite de 4 en 48/61 
+| Unite de Joueur 4 en 55/54 se deplace vers 55/58
+| Unite de Joueur 4 en 49/58 attaque pour 22 en 49/61
+| Unite de Joueur 4 en 49/58 attaque pour 22 en 49/61
+| Unite de Joueur 4 en 49/58 tue Unite de 18 en 49/61
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 5 en 8/93 attaque pour 14 en 6/96
+| Unite de Joueur 5 en 14/97 se deplace vers 13/98
+| Unite de Joueur 5 en 8/93 attaque pour 14 en 6/96
+| Unite de Joueur 5 en 14/93 se deplace vers 13/92
+| Unite de Joueur 5 en 8/93 attaque pour 14 en 6/96
+| Unite de Joueur 5 en 8/93 tue Unite de 14 en 6/96
+| Unite de Joueur 6 en 45/79 soigne de 14 en 45/79
+| Unite de Joueur 6 en 45/77 soigne de 14 en 45/77
+| Unite de Joueur 6 en 50/70 attaque pour 21 en 51/67
+| Unite de Joueur 6 en 43/76 se deplace vers 43/74
+| Unite de Joueur 6 en 44/75 se deplace vers 42/75
+| Unite de Joueur 7 en 34/98 se deplace vers 36/98
+| Unite de Joueur 7 en 32/94 attaque pour 21 en 31/94
+| Unite de Joueur 19 en 31/94 block Unite de 7 en 32/94 
+| Unite de Joueur 7 en 42/94 se deplace vers 42/90
+| Unite de Joueur 19 en 31/94 block Unite de 7 en 32/94 
+| Unite de Joueur 8 en 5/74 attaque pour 31 en 5/76
+| Unite de Joueur 8 en 5/74 tue Unite de 13 en 5/76
+| Unite de Joueur 8 en 5/75 se deplace vers 5/79
+| Unite de Joueur 8 en 4/67 se deplace vers 4/71
+| Unite de Joueur 8 en 5/74 se deplace vers 6/78
+| Unite de Joueur 8 en 5/79 attaque pour 20 en 6/79
+| Unite de Joueur 9 en 31/68 attaque pour 30 en 31/67
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 9 en 33/72 se deplace vers 33/69
+| Unite de Joueur 9 en 33/69 attaque pour 20 en 31/67
+| Unite de Joueur 9 en 33/69 tue Unite de 2 en 31/67
+| Unite de Joueur 9 en 34/72 se deplace vers 34/67
+| Unite de Joueur 10 en 45/19 se deplace vers 45/20
+| Unite de Joueur 10 en 42/18 se deplace vers 43/16
+| Unite de Joueur 10 en 44/22 attaque pour 24 en 48/22
+| Unite de Joueur 10 en 44/22 tue Unite de 16 en 48/22
+| Unite de Joueur 10 en 45/20 se deplace vers 46/21
+| Unite de Joueur 10 en 43/16 se deplace vers 43/18
+| Unite de Joueur 11 en 57/31 attaque pour 26 en 57/26
+| Unite de Joueur 11 en 57/35 se deplace vers 58/32
+| Unite de Joueur 11 en 58/28 se deplace vers 58/27
+| Unite de Joueur 16 en 57/27 block Unite de 11 en 57/28 
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/30
+| Unite de Joueur 12 en 3/15 se deplace vers 4/17
+| Unite de Joueur 12 en 4/13 se deplace vers 4/15
+| Unite de Joueur 12 en 5/5 se deplace vers 4/6
+| Unite de Joueur 12 en 11/16 se deplace vers 11/21
+| Unite de Joueur 12 en 4/15 se deplace vers 5/17
+| Unite de Joueur 13 en 1/78 attaque pour 21 en 6/78
+| Unite de Joueur 13 en 6/79 attaque pour 19 en 6/78
+| Unite de Joueur 13 en 6/79 tue Unite de 8 en 6/78
+| Unite de Joueur 13 en 6/79 attaque pour 21 en 5/79
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 13 en 6/79 attaque pour 21 en 5/79
+| Unite de Joueur 13 en 6/79 tue Unite de 8 en 5/79
+| Unite de Joueur 13 en 3/80 se deplace vers 2/77
+| Unite de Joueur 13 en 0/87 block Unite de 14 en 2/89 
+| Unite de Joueur 14 en 3/90 se deplace vers 3/87
+| Unite de Joueur 14 en 0/93 se deplace vers 0/90
+| Unite de Joueur 14 en 3/87 attaque pour 23 en 0/87
+| Unite de Joueur 14 en 3/87 tue Unite de 13 en 0/87
+| Unite de Joueur 14 en 0/89 se deplace vers 0/86
+| Unite de Joueur 15 en 83/91 attaque pour 25 en 80/91
+| Unite de Joueur 15 en 83/91 tue Unite de 0 en 80/91
+| Unite de Joueur 15 en 83/91 se deplace vers 80/91
+| Unite de Joueur 15 en 89/92 se deplace vers 89/90
+| Unite de Joueur 15 en 89/89 se deplace vers 89/88
+| Unite de Joueur 15 en 89/88 se deplace vers 89/87
+| Unite de Joueur 16 en 56/25 attaque pour 16 en 57/28
+| Unite de Joueur 16 en 46/22 attaque pour 18 en 45/22
+| Unite de Joueur 16 en 57/27 attaque pour 13 en 57/28
+| Unite de Joueur 16 en 57/27 tue Unite de 11 en 57/28
+| Unite de Joueur 16 en 48/21 attaque pour 20 en 45/22
+| Unite de Joueur 16 en 48/21 tue Unite de 10 en 45/22
+| Unite de Joueur 10 en 46/21 block Unite de 16 en 46/22 
+| Unite de Joueur 17 en 69/39 se deplace vers 68/39
+| Unite de Joueur 17 en 69/37 se deplace vers 67/36
+| Unite de Joueur 17 en 68/36 se deplace vers 67/34
+| Unite de Joueur 17 en 69/36 se deplace vers 66/35
+| Unite de Joueur 17 en 69/38 se deplace vers 67/37
+| Unite de Joueur 6 en 50/70 block Unite de 18 en 50/66 
+| Unite de Joueur 6 en 50/70 block Unite de 18 en 50/66 
+| Unite de Joueur 18 en 48/65 se deplace vers 49/64
+| Unite de Joueur 18 en 52/63 attaque pour 20 en 52/62
+| Unite de Joueur 18 en 52/63 attaque pour 20 en 52/62
+| Unite de Joueur 18 en 52/63 tue Unite de 4 en 52/62
+| Unite de Joueur 18 en 49/64 se deplace vers 49/62
+| Unite de Joueur 19 en 33/92 se deplace vers 33/94
+| Unite de Joueur 7 en 32/94 block Unite de 19 en 32/92 
+| Unite de Joueur 19 en 29/92 se deplace vers 30/93
+| Unite de Joueur 19 en 28/89 se deplace vers 29/92
+| Unite de Joueur 19 en 30/93 se deplace vers 31/93
+| Unite de Joueur 0 en 63/92 soigne de 14 en 63/92
+| Unite de Joueur 0 en 66/90 se deplace vers 68/90
+| Unite de Joueur 0 en 75/91 se deplace vers 78/91
+| Unite de Joueur 0 en 68/90 se deplace vers 70/90
+| Unite de Joueur 0 en 70/93 se deplace vers 73/93
+| Unite de Joueur 1 en 94/69 se deplace vers 94/72
+| Unite de Joueur 1 en 92/77 se deplace vers 93/80
+| Unite de Joueur 1 en 86/71 se deplace vers 85/71
+| Unite de Joueur 1 en 98/66 se deplace vers 99/68
+| Unite de Joueur 1 en 92/81 se deplace vers 93/84
+| Unite de Joueur 2 en 27/65 se deplace vers 26/68
+| Unite de Joueur 2 en 30/65 attaque pour 30 en 31/68
+| Unite de Joueur 2 en 29/66 se deplace vers 29/67
+| Unite de Joueur 2 en 29/64 se deplace vers 30/66
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 3 en 14/36 se deplace vers 14/34
+| Unite de Joueur 3 en 14/34 se deplace vers 14/33
+| Unite de Joueur 3 en 9/36 se deplace vers 8/33
+| Unite de Joueur 3 en 15/37 se deplace vers 15/35
+| Unite de Joueur 3 en 15/35 se deplace vers 15/32
+| Unite de Joueur 4 en 48/61 se deplace vers 48/62
+| Unite de Joueur 4 en 48/62 attaque pour 13 en 49/62
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 4 en 48/62 attaque pour 13 en 49/62
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 5 en 14/99 soigne de 14 en 14/99
+| Unite de Joueur 5 en 15/99 soigne de 14 en 15/99
+| Unite de Joueur 14 en 3/94 block Unite de 5 en 8/94 
+| Unite de Joueur 5 en 13/92 se deplace vers 11/92
+| Unite de Joueur 5 en 8/93 se deplace vers 5/94
+| Unite de Joueur 6 en 42/75 se deplace vers 42/73
+| Unite de Joueur 6 en 50/73 se deplace vers 51/71
+| Unite de Joueur 6 en 50/70 attaque pour 21 en 51/67
+| Unite de Joueur 6 en 50/70 tue Unite de 18 en 51/67
+| Unite de Joueur 6 en 51/71 se deplace vers 51/68
+| Unite de Joueur 6 en 42/73 se deplace vers 42/71
+| Unite de Joueur 7 en 39/97 se deplace vers 42/97
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/94
+| Unite de Joueur 7 en 38/99 se deplace vers 40/99
+| Unite de Joueur 7 en 31/99 soigne de 14 en 31/99
+| Unite de Joueur 7 en 32/94 attaque pour 21 en 31/94
+| Unite de Joueur 7 en 32/94 tue Unite de 19 en 31/94
+| Unite de Joueur 8 en 5/72 se deplace vers 5/76
+| Unite de Joueur 8 en 6/65 se deplace vers 6/67
+| Unite de Joueur 8 en 6/64 soigne de 14 en 6/64
+| Unite de Joueur 8 en 6/67 se deplace vers 6/68
+| Unite de Joueur 8 en 6/68 se deplace vers 6/69
+| Unite de Joueur 9 en 32/68 attaque pour 22 en 30/66
+| Unite de Joueur 9 en 31/68 se deplace vers 30/67
+| Unite de Joueur 2 en 30/66 block Unite de 9 en 30/67 
+| Unite de Joueur 9 en 30/67 attaque pour 31 en 30/66
+| Unite de Joueur 9 en 30/67 tue Unite de 2 en 30/66
+| Unite de Joueur 9 en 31/69 se deplace vers 30/66
+| Unite de Joueur 10 en 45/25 attaque pour 22 en 46/22
+| Unite de Joueur 10 en 45/25 tue Unite de 16 en 46/22
+| Unite de Joueur 10 en 44/22 attaque pour 26 en 48/21
+| Unite de Joueur 10 en 45/17 se deplace vers 46/17
+| Unite de Joueur 10 en 44/24 se deplace vers 47/24
+| Unite de Joueur 10 en 43/18 se deplace vers 44/19
+| Unite de Joueur 16 en 57/27 block Unite de 11 en 58/27 
+| Unite de Joueur 11 en 65/34 attaque pour 32 en 67/34
+| Unite de Joueur 11 en 65/34 tue Unite de 17 en 67/34
+| Unite de Joueur 11 en 65/34 attaque pour 32 en 66/35
+| Unite de Joueur 11 en 65/34 tue Unite de 17 en 66/35
+| Unite de Joueur 11 en 65/34 se deplace vers 66/36
+| Unite de Joueur 16 en 57/26 block Unite de 11 en 57/31 
+| Unite de Joueur 12 en 3/8 se deplace vers 3/9
+| Unite de Joueur 12 en 3/5 soigne de 14 en 3/5
+| Unite de Joueur 12 en 3/9 se deplace vers 3/10
+| Unite de Joueur 12 en 8/6 se deplace vers 10/9
+| Unite de Joueur 12 en 5/17 se deplace vers 5/20
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 13 en 2/77 attaque pour 20 en 5/76
+| Unite de Joueur 13 en 2/77 attaque pour 20 en 5/76
+| Unite de Joueur 13 en 2/77 tue Unite de 8 en 5/76
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 13 en 2/77 se deplace vers 2/73
+| Unite de Joueur 14 en 0/90 se deplace vers 2/91
+| Unite de Joueur 14 en 5/97 se deplace vers 5/95
+| Unite de Joueur 14 en 2/91 se deplace vers 2/93
+| Unite de Joueur 14 en 2/89 se deplace vers 2/92
+| Unite de Joueur 14 en 4/98 se deplace vers 6/96
+| Unite de Joueur 15 en 84/92 se deplace vers 80/92
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 92/84 attaque pour 26 en 93/84
+| Unite de Joueur 15 en 93/85 attaque pour 22 en 93/84
+| Unite de Joueur 15 en 93/85 tue Unite de 1 en 93/84
+| Unite de Joueur 15 en 87/86 se deplace vers 87/82
+| Unite de Joueur 16 en 49/24 attaque pour 21 en 47/24
+| Unite de Joueur 16 en 49/24 tue Unite de 10 en 47/24
+| Unite de Joueur 11 en 58/27 block Unite de 16 en 56/25 
+| Unite de Joueur 16 en 48/21 attaque pour 22 en 44/19
+| Unite de Joueur 16 en 57/27 attaque pour 13 en 58/27
+| Unite de Joueur 10 en 44/19 block Unite de 16 en 48/21 
+| Unite de Joueur 17 en 71/41 se deplace vers 71/40
+| Unite de Joueur 17 en 71/40 se deplace vers 71/39
+| Unite de Joueur 17 en 69/34 se deplace vers 68/35
+| Unite de Joueur 17 en 68/39 se deplace vers 67/38
+| Unite de Joueur 17 en 73/41 se deplace vers 76/41
+| Unite de Joueur 18 en 49/62 attaque pour 20 en 48/62
+| Unite de Joueur 18 en 49/62 tue Unite de 4 en 48/62
+| Unite de Joueur 18 en 43/62 se deplace vers 46/62
+| Unite de Joueur 18 en 46/62 attaque pour 14 en 48/60
+| Unite de Joueur 4 en 48/60 block Unite de 18 en 46/62 
+| Unite de Joueur 18 en 49/62 se deplace vers 49/61
+| Unite de Joueur 19 en 32/92 attaque pour 19 en 32/94
+| Unite de Joueur 19 en 33/94 attaque pour 18 en 32/94
+| Unite de Joueur 19 en 30/94 se deplace vers 31/94
+| Unite de Joueur 19 en 29/92 attaque pour 20 en 32/94
+| Unite de Joueur 19 en 29/92 tue Unite de 7 en 32/94
+| Unite de Joueur 19 en 31/94 se deplace vers 31/97
+| Unite de Joueur 0 en 70/90 se deplace vers 72/90
+| Unite de Joueur 0 en 72/90 se deplace vers 74/90
+| Unite de Joueur 0 en 69/95 se deplace vers 70/95
+| Unite de Joueur 0 en 70/95 se deplace vers 71/94
+| Unite de Joueur 0 en 70/92 se deplace vers 72/94
+| Unite de Joueur 1 en 94/64 soigne de 14 en 94/64
+| Unite de Joueur 1 en 95/70 se deplace vers 94/71
+| Unite de Joueur 1 en 97/70 se deplace vers 95/68
+| Unite de Joueur 1 en 95/68 se deplace vers 91/68
+| Unite de Joueur 1 en 94/72 se deplace vers 94/74
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 26/68 se deplace vers 25/71
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 30/65 attaque pour 30 en 30/67
+| Unite de Joueur 2 en 30/65 tue Unite de 9 en 30/67
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 3 en 13/32 se deplace vers 14/28
+| Unite de Joueur 3 en 14/33 se deplace vers 14/32
+| Unite de Joueur 3 en 14/32 se deplace vers 14/31
+| Unite de Joueur 3 en 11/28 se deplace vers 11/24
+| Unite de Joueur 3 en 10/33 se deplace vers 11/32
+| Unite de Joueur 4 en 48/60 se deplace vers 48/61
+| Unite de Joueur 4 en 47/57 se deplace vers 47/61
+| Unite de Joueur 18 en 49/61 block Unite de 4 en 47/61 
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 5 en 5/94 attaque pour 23 en 5/95
+| Unite de Joueur 5 en 5/94 tue Unite de 14 en 5/95
+| Unite de Joueur 14 en 2/93 block Unite de 5 en 5/94 
+| Unite de Joueur 5 en 13/98 se deplace vers 12/99
+| Unite de Joueur 5 en 15/99 soigne de 14 en 15/99
+| Unite de Joueur 5 en 25/99 se deplace vers 29/99
+| Unite de Joueur 6 en 49/75 se deplace vers 48/71
+| Unite de Joueur 6 en 50/70 attaque pour 21 en 50/66
+| Unite de Joueur 6 en 48/71 se deplace vers 48/66
+| Unite de Joueur 6 en 46/75 se deplace vers 46/71
+| Unite de Joueur 6 en 50/70 attaque pour 21 en 50/66
+| Unite de Joueur 6 en 50/70 tue Unite de 18 en 50/66
+| Unite de Joueur 7 en 36/98 se deplace vers 38/98
+| Unite de Joueur 7 en 40/99 se deplace vers 42/99
+| Unite de Joueur 7 en 33/99 se deplace vers 37/99
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 7 en 42/97 se deplace vers 42/95
+| Unite de Joueur 8 en 3/69 se deplace vers 3/70
+| Unite de Joueur 8 en 6/64 se deplace vers 8/64
+| Unite de Joueur 8 en 8/64 se deplace vers 10/64
+| Unite de Joueur 8 en 2/71 attaque pour 20 en 2/73
+| Unite de Joueur 8 en 2/71 attaque pour 20 en 2/73
+| Unite de Joueur 8 en 2/71 tue Unite de 13 en 2/73
+| Unite de Joueur 9 en 34/67 se deplace vers 30/67
+| Unite de Joueur 9 en 30/66 attaque pour 19 en 30/65
+| Unite de Joueur 9 en 30/67 attaque pour 31 en 30/65
+| Unite de Joueur 9 en 30/67 tue Unite de 2 en 30/65
+| Unite de Joueur 9 en 33/69 se deplace vers 31/67
+| Unite de Joueur 9 en 32/68 attaque pour 22 en 31/64
+| Unite de Joueur 10 en 45/18 se deplace vers 47/20
+| Unite de Joueur 10 en 46/17 se deplace vers 46/18
+| Unite de Joueur 10 en 44/22 attaque pour 26 en 48/21
+| Unite de Joueur 10 en 44/22 tue Unite de 16 en 48/21
+| Unite de Joueur 10 en 45/25 attaque pour 21 en 49/24
+| Unite de Joueur 10 en 44/19 se deplace vers 45/17
+| Unite de Joueur 11 en 57/31 attaque pour 26 en 57/26
+| Unite de Joueur 11 en 57/31 tue Unite de 16 en 57/26
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 11 en 56/33 se deplace vers 59/32
+| Unite de Joueur 11 en 57/31 attaque pour 18 en 57/27
+| Unite de Joueur 11 en 59/32 se deplace vers 59/28
+| Unite de Joueur 12 en 2/14 se deplace vers 3/16
+| Unite de Joueur 12 en 4/17 se deplace vers 4/21
+| Unite de Joueur 12 en 4/6 se deplace vers 4/8
+| Unite de Joueur 12 en 10/9 se deplace vers 12/12
+| Unite de Joueur 12 en 6/4 se deplace vers 6/6
+| Unite de Joueur 13 en 2/80 soigne de 14 en 2/80
+| Unite de Joueur 13 en 1/78 se deplace vers 1/74
+| Unite de Joueur 13 en 1/74 attaque pour 20 en 2/71
+| Unite de Joueur 13 en 1/74 attaque pour 20 en 2/71
+| Unite de Joueur 13 en 1/74 tue Unite de 8 en 2/71
+| Unite de Joueur 13 en 6/79 se deplace vers 6/76
+| Unite de Joueur 14 en 4/97 se deplace vers 4/94
+| Unite de Joueur 14 en 2/92 se deplace vers 4/93
+| Unite de Joueur 14 en 4/94 attaque pour 19 en 5/94
+| Unite de Joueur 14 en 3/94 se deplace vers 4/95
+| Unite de Joueur 14 en 4/93 attaque pour 26 en 5/94
+| Unite de Joueur 14 en 4/93 tue Unite de 5 en 5/94
+| Unite de Joueur 15 en 89/87 se deplace vers 88/86
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 92/84 se deplace vers 93/82
+| Unite de Joueur 15 en 89/90 se deplace vers 87/90
+| Unite de Joueur 15 en 93/82 attaque pour 23 en 93/80
+| Unite de Joueur 16 en 52/18 se deplace vers 48/18
+| Unite de Joueur 11 en 58/27 block Unite de 16 en 56/25 
+| Unite de Joueur 16 en 48/18 attaque pour 21 en 45/17
+| Unite de Joueur 16 en 48/18 tue Unite de 10 en 45/17
+| Unite de Joueur 11 en 58/27 block Unite de 16 en 57/27 
+| Unite de Joueur 16 en 56/25 attaque pour 16 en 58/27
+| Unite de Joueur 17 en 67/38 se deplace vers 66/37
+| Unite de Joueur 17 en 66/37 attaque pour 19 en 66/36
+| Unite de Joueur 17 en 68/35 se deplace vers 67/35
+| Unite de Joueur 17 en 67/36 attaque pour 19 en 66/36
+| Unite de Joueur 17 en 76/41 se deplace vers 78/41
+| Unite de Joueur 18 en 49/61 attaque pour 13 en 48/61
+| Unite de Joueur 4 en 48/61 block Unite de 18 en 46/62 
+| Unite de Joueur 18 en 52/63 se deplace vers 50/62
+| Unite de Joueur 18 en 49/61 attaque pour 13 en 48/61
+| Unite de Joueur 18 en 49/61 tue Unite de 4 en 48/61
+| Unite de Joueur 18 en 49/61 se deplace vers 48/61
+| Unite de Joueur 19 en 31/93 se deplace vers 31/94
+| Unite de Joueur 19 en 31/94 se deplace vers 31/95
+| Unite de Joueur 19 en 31/97 se deplace vers 31/98
+| Unite de Joueur 19 en 31/91 se deplace vers 31/94
+| Unite de Joueur 19 en 33/94 se deplace vers 32/96
+| Unite de Joueur 0 en 63/90 soigne de 14 en 63/90
+| Unite de Joueur 15 en 80/91 block Unite de 0 en 78/91 
+| Unite de Joueur 0 en 78/91 attaque pour 25 en 80/91
+| Unite de Joueur 0 en 73/93 se deplace vers 76/93
+| Unite de Joueur 0 en 76/93 se deplace vers 77/92
+| Unite de Joueur 1 en 94/64 soigne de 14 en 94/64
+| Unite de Joueur 1 en 91/68 se deplace vers 94/69
+| Unite de Joueur 1 en 97/74 se deplace vers 97/79
+| Unite de Joueur 1 en 94/74 se deplace vers 92/75
+| Unite de Joueur 1 en 94/64 soigne de 14 en 94/64
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 29/67 attaque pour 20 en 30/67
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 29/67 attaque pour 20 en 30/67
+| Unite de Joueur 2 en 29/67 tue Unite de 9 en 30/67
+| Unite de Joueur 2 en 29/67 se deplace vers 29/66
+| Unite de Joueur 3 en 9/43 se deplace vers 10/47
+| Unite de Joueur 3 en 10/50 se deplace vers 10/53
+| Unite de Joueur 3 en 10/53 se deplace vers 10/56
+| Unite de Joueur 3 en 8/33 se deplace vers 8/29
+| Unite de Joueur 3 en 10/47 se deplace vers 10/52
+| Unite de Joueur 18 en 48/61 block Unite de 4 en 47/61 
+| Unite de Joueur 18 en 48/61 block Unite de 4 en 49/58 
+| Unite de Joueur 4 en 55/58 se deplace vers 55/61
+| Unite de Joueur 18 en 48/61 block Unite de 4 en 49/58 
+| Unite de Joueur 4 en 55/61 se deplace vers 52/62
+| Unite de Joueur 5 en 29/99 se deplace vers 30/99
+| Unite de Joueur 14 en 4/95 block Unite de 5 en 8/94 
+| Unite de Joueur 5 en 15/99 soigne de 14 en 15/99
+| Unite de Joueur 5 en 12/99 se deplace vers 10/99
+| Unite de Joueur 5 en 10/99 se deplace vers 8/99
+| Unite de Joueur 6 en 42/71 se deplace vers 42/70
+| Unite de Joueur 6 en 45/75 se deplace vers 45/73
+| Unite de Joueur 6 en 45/77 soigne de 14 en 45/77
+| Unite de Joueur 6 en 48/66 se deplace vers 49/63
+| Unite de Joueur 6 en 46/71 se deplace vers 46/67
+| Unite de Joueur 7 en 37/99 se deplace vers 39/97
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 7 en 31/99 soigne de 14 en 31/99
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 8 en 6/69 se deplace vers 5/70
+| Unite de Joueur 8 en 3/70 se deplace vers 3/72
+| Unite de Joueur 8 en 4/71 se deplace vers 3/74
+| Unite de Joueur 8 en 2/67 se deplace vers 2/71
+| Unite de Joueur 8 en 2/71 se deplace vers 2/74
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 2 en 29/66 block Unite de 9 en 30/66 
+| Unite de Joueur 9 en 32/68 attaque pour 22 en 31/64
+| Unite de Joueur 9 en 32/68 tue Unite de 2 en 31/64
+| Unite de Joueur 10 en 42/19 se deplace vers 44/17
+| Unite de Joueur 10 en 41/22 se deplace vers 41/24
+| Unite de Joueur 10 en 46/21 se deplace vers 48/21
+| Unite de Joueur 10 en 48/21 se deplace vers 48/20
+| Unite de Joueur 10 en 41/24 se deplace vers 43/24
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 11 en 58/32 se deplace vers 58/28
+| Unite de Joueur 11 en 59/28 attaque pour 14 en 57/27
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 16 en 57/27 block Unite de 11 en 57/31 
+| Unite de Joueur 12 en 12/12 se deplace vers 11/16
+| Unite de Joueur 12 en 4/21 se deplace vers 6/23
+| Unite de Joueur 12 en 11/21 se deplace vers 11/23
+| Unite de Joueur 12 en 3/5 se deplace vers 6/5
+| Unite de Joueur 12 en 3/10 se deplace vers 3/12
+| Unite de Joueur 13 en 1/74 attaque pour 21 en 3/74
+| Unite de Joueur 13 en 1/74 attaque pour 21 en 3/74
+| Unite de Joueur 13 en 1/74 tue Unite de 8 en 3/74
+| Unite de Joueur 8 en 3/72 block Unite de 13 en 1/74 
+| Unite de Joueur 13 en 6/76 se deplace vers 4/74
+| Unite de Joueur 13 en 2/80 se deplace vers 5/80
+| Unite de Joueur 14 en 4/93 se deplace vers 6/94
+| Unite de Joueur 14 en 4/94 se deplace vers 6/93
+| Unite de Joueur 14 en 6/94 attaque pour 28 en 8/94
+| Unite de Joueur 14 en 6/96 se deplace vers 5/93
+| Unite de Joueur 14 en 3/87 se deplace vers 4/85
+| Unite de Joueur 15 en 87/90 se deplace vers 85/90
+| Unite de Joueur 15 en 87/82 se deplace vers 89/80
+| Unite de Joueur 15 en 90/92 soigne de 14 en 90/92
+| Unite de Joueur 15 en 80/92 attaque pour 21 en 77/92
+| Unite de Joueur 15 en 80/92 attaque pour 21 en 77/92
+| Unite de Joueur 15 en 80/92 tue Unite de 0 en 77/92
+| Unite de Joueur 16 en 49/24 attaque pour 21 en 45/25
+| Unite de Joueur 16 en 56/25 attaque pour 16 en 58/27
+| Unite de Joueur 16 en 56/25 tue Unite de 11 en 58/27
+| Unite de Joueur 16 en 56/25 se deplace vers 58/26
+| Unite de Joueur 16 en 48/18 attaque pour 21 en 44/17
+| Unite de Joueur 16 en 57/27 se deplace vers 57/28
+| Unite de Joueur 17 en 67/35 attaque pour 19 en 66/36
+| Unite de Joueur 17 en 67/35 tue Unite de 11 en 66/36
+| Unite de Joueur 17 en 71/39 se deplace vers 71/38
+| Unite de Joueur 17 en 66/37 se deplace vers 66/35
+| Unite de Joueur 17 en 71/38 se deplace vers 70/38
+| Unite de Joueur 17 en 70/38 se deplace vers 70/37
+| Unite de Joueur 18 en 46/62 attaque pour 21 en 49/63
+| Unite de Joueur 18 en 48/61 attaque pour 21 en 47/61
+| Unite de Joueur 18 en 46/62 attaque pour 21 en 49/63
+| Unite de Joueur 18 en 46/62 tue Unite de 6 en 49/63
+| Unite de Joueur 18 en 50/62 se deplace vers 51/62
+| Unite de Joueur 18 en 48/61 attaque pour 21 en 47/61
+| Unite de Joueur 18 en 48/61 tue Unite de 4 en 47/61
+| Unite de Joueur 19 en 31/98 attaque pour 18 en 31/99
+| Unite de Joueur 19 en 31/98 attaque pour 18 en 31/99
+| Unite de Joueur 19 en 32/96 attaque pour 18 en 32/98
+| Unite de Joueur 19 en 32/96 attaque pour 18 en 32/98
+| Unite de Joueur 19 en 31/95 se deplace vers 32/94
+| Unite de Joueur 0 en 72/94 se deplace vers 75/93
+| Unite de Joueur 0 en 69/92 se deplace vers 72/93
+| Unite de Joueur 0 en 74/90 se deplace vers 75/90
+| Unite de Joueur 0 en 71/94 se deplace vers 73/94
+| Unite de Joueur 0 en 75/93 se deplace vers 78/92
+| Unite de Joueur 1 en 85/71 se deplace vers 85/72
+| Unite de Joueur 1 en 99/68 se deplace vers 99/71
+| Unite de Joueur 1 en 92/75 se deplace vers 92/78
+| Unite de Joueur 1 en 85/72 se deplace vers 85/73
+| Unite de Joueur 1 en 93/80 attaque pour 21 en 89/80
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 25/71 se deplace vers 28/70
+| Unite de Joueur 2 en 29/66 attaque pour 23 en 30/66
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 2 en 29/66 attaque pour 23 en 30/66
+| Unite de Joueur 2 en 29/66 tue Unite de 9 en 30/66
+| Unite de Joueur 3 en 10/52 se deplace vers 11/56
+| Unite de Joueur 3 en 11/24 attaque pour 21 en 11/23
+| Unite de Joueur 3 en 11/56 se deplace vers 11/61
+| Unite de Joueur 3 en 15/54 se deplace vers 15/59
+| Unite de Joueur 3 en 11/61 se deplace vers 11/64
+| Unite de Joueur 4 en 52/62 attaque pour 20 en 51/62
+| Unite de Joueur 4 en 52/62 attaque pour 20 en 51/62
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 4 en 52/62 attaque pour 20 en 51/62
+| Unite de Joueur 4 en 52/62 tue Unite de 18 en 51/62
+| Unite de Joueur 4 en 52/62 se deplace vers 50/61
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 5 en 11/92 se deplace vers 10/93
+| Unite de Joueur 5 en 30/99 attaque pour 18 en 31/99
+| Unite de Joueur 5 en 14/99 soigne de 14 en 14/99
+| Unite de Joueur 5 en 10/93 se deplace vers 9/93
+| Unite de Joueur 5 en 30/99 attaque pour 18 en 31/99
+| Unite de Joueur 6 en 50/70 se deplace vers 52/68
+| Unite de Joueur 6 en 45/79 soigne de 14 en 45/79
+| Unite de Joueur 6 en 49/76 se deplace vers 49/74
+| Unite de Joueur 6 en 49/74 se deplace vers 49/72
+| Unite de Joueur 6 en 45/73 se deplace vers 45/71
+| Unite de Joueur 7 en 31/99 soigne de 14 en 31/99
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 7 en 42/95 se deplace vers 41/93
+| Unite de Joueur 7 en 41/93 se deplace vers 38/93
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 8 en 5/70 se deplace vers 5/71
+| Unite de Joueur 8 en 3/72 se deplace vers 3/73
+| Unite de Joueur 8 en 2/74 attaque pour 33 en 4/74
+| Unite de Joueur 8 en 2/74 tue Unite de 13 en 4/74
+| Unite de Joueur 8 en 10/64 se deplace vers 11/65
+| Unite de Joueur 8 en 5/71 se deplace vers 4/72
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 2 en 29/66 block Unite de 9 en 32/68 
+| Unite de Joueur 2 en 29/66 block Unite de 9 en 32/68 
+| Unite de Joueur 2 en 29/66 block Unite de 9 en 31/67 
+| Unite de Joueur 2 en 29/66 block Unite de 9 en 32/68 
+| Unite de Joueur 10 en 44/22 se deplace vers 44/24
+| Unite de Joueur 10 en 45/25 attaque pour 21 en 49/24
+| Unite de Joueur 10 en 45/25 tue Unite de 16 en 49/24
+| Unite de Joueur 10 en 45/25 se deplace vers 45/21
+| Unite de Joueur 10 en 48/20 se deplace vers 48/19
+| Unite de Joueur 10 en 44/24 se deplace vers 45/22
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 11 en 56/30 attaque pour 16 en 57/28
+| Unite de Joueur 11 en 56/30 tue Unite de 16 en 57/28
+| Unite de Joueur 11 en 57/31 se deplace vers 57/29
+| Unite de Joueur 16 en 58/26 block Unite de 11 en 57/29 
+| Unite de Joueur 11 en 56/34 soigne de 14 en 56/34
+| Unite de Joueur 12 en 3/12 se deplace vers 3/14
+| Unite de Joueur 12 en 7/2 soigne de 14 en 7/2
+| Unite de Joueur 12 en 7/2 soigne de 14 en 7/2
+| Unite de Joueur 12 en 6/6 se deplace vers 4/7
+| Unite de Joueur 12 en 6/23 se deplace vers 6/26
+| Unite de Joueur 13 en 1/74 attaque pour 16 en 3/73
+| Unite de Joueur 13 en 1/74 attaque pour 16 en 3/73
+| Unite de Joueur 13 en 1/74 attaque pour 16 en 3/73
+| Unite de Joueur 13 en 1/74 tue Unite de 8 en 3/73
+| Unite de Joueur 13 en 5/80 se deplace vers 8/80
+| Unite de Joueur 13 en 8/80 se deplace vers 11/80
+| Unite de Joueur 14 en 4/85 se deplace vers 4/82
+| Unite de Joueur 14 en 4/95 se deplace vers 4/94
+| Unite de Joueur 14 en 2/93 se deplace vers 4/92
+| Unite de Joueur 14 en 6/93 se deplace vers 7/94
+| Unite de Joueur 14 en 4/82 se deplace vers 5/80
+| Unite de Joueur 15 en 80/92 attaque pour 22 en 78/91
+| Unite de Joueur 15 en 85/90 se deplace vers 84/91
+| Unite de Joueur 15 en 90/92 soigne de 14 en 90/92
+| Unite de Joueur 15 en 93/82 attaque pour 23 en 93/80
+| Unite de Joueur 15 en 93/82 tue Unite de 1 en 93/80
+| Unite de Joueur 15 en 93/85 se deplace vers 94/82
+| Unite de Joueur 16 en 48/18 attaque pour 21 en 44/17
+| Unite de Joueur 16 en 48/18 tue Unite de 10 en 44/17
+| Unite de Joueur 16 en 58/26 attaque pour 24 en 58/28
+| Unite de Joueur 16 en 48/18 attaque pour 22 en 45/21
+| Unite de Joueur 16 en 48/18 tue Unite de 10 en 45/21
+| Unite de Joueur 16 en 58/26 attaque pour 24 en 58/28
+| Unite de Joueur 16 en 58/26 tue Unite de 11 en 58/28
+| Unite de Joueur 16 en 48/18 attaque pour 18 en 46/18
+| Unite de Joueur 17 en 70/37 se deplace vers 70/35
+| Unite de Joueur 17 en 70/35 se deplace vers 69/34
+| Unite de Joueur 17 en 67/36 se deplace vers 65/35
+| Unite de Joueur 17 en 66/35 se deplace vers 66/34
+| Unite de Joueur 17 en 69/34 se deplace vers 68/33
+| Unite de Joueur 6 en 46/67 block Unite de 18 en 46/62 
+| Unite de Joueur 18 en 48/61 se deplace vers 49/61
+| Unite de Joueur 18 en 49/61 attaque pour 26 en 50/61
+| Unite de Joueur 4 en 50/61 block Unite de 18 en 49/61 
+| Unite de Joueur 18 en 46/62 attaque pour 23 en 50/61
+| Unite de Joueur 18 en 46/62 tue Unite de 4 en 50/61
+| Unite de Joueur 19 en 31/98 attaque pour 18 en 31/99
+| Unite de Joueur 19 en 32/92 se deplace vers 32/93
+| Unite de Joueur 19 en 32/96 attaque pour 18 en 32/98
+| Unite de Joueur 19 en 31/98 attaque pour 18 en 31/99
+| Unite de Joueur 19 en 32/96 attaque pour 18 en 32/98
+| Unite de Joueur 0 en 75/90 se deplace vers 77/90
+| Unite de Joueur 0 en 73/94 se deplace vers 74/95
+| Unite de Joueur 0 en 78/91 attaque pour 25 en 80/91
+| Unite de Joueur 0 en 78/91 tue Unite de 15 en 80/91
+| Unite de Joueur 0 en 63/92 soigne de 14 en 63/92
+| Unite de Joueur 0 en 78/92 attaque pour 18 en 80/92
+| Unite de Joueur 1 en 94/69 se deplace vers 95/72
+| Unite de Joueur 1 en 97/79 se deplace vers 95/82
+| Unite de Joueur 1 en 94/64 soigne de 14 en 94/64
+| Unite de Joueur 1 en 96/65 se deplace vers 96/66
+| Unite de Joueur 1 en 94/71 se deplace vers 95/70
+| Unite de Joueur 2 en 28/70 se deplace vers 31/70
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 29/66 se deplace vers 29/67
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 3 en 14/28 se deplace vers 14/23
+| Unite de Joueur 12 en 6/26 block Unite de 3 en 8/29 
+| Unite de Joueur 3 en 14/23 se deplace vers 12/23
+| Unite de Joueur 3 en 15/28 se deplace vers 14/26
+| Unite de Joueur 3 en 11/64 attaque pour 29 en 11/65
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 18 en 49/61 block Unite de 4 en 49/58 
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 5 en 13/94 se deplace vers 11/92
+| Unite de Joueur 5 en 15/99 soigne de 14 en 15/99
+| Unite de Joueur 5 en 11/92 se deplace vers 8/93
+| Unite de Joueur 5 en 9/93 se deplace vers 8/92
+| Unite de Joueur 5 en 8/99 se deplace vers 8/97
+| Unite de Joueur 6 en 42/70 se deplace vers 41/70
+| Unite de Joueur 6 en 46/67 se deplace vers 47/65
+| Unite de Joueur 6 en 45/71 se deplace vers 45/69
+| Unite de Joueur 6 en 49/72 se deplace vers 48/71
+| Unite de Joueur 6 en 45/77 soigne de 14 en 45/77
+| Unite de Joueur 7 en 42/99 se deplace vers 42/97
+| Unite de Joueur 7 en 32/98 soigne de 14 en 31/99
+| Unite de Joueur 7 en 42/97 se deplace vers 42/96
+| Unite de Joueur 7 en 38/93 se deplace vers 36/92
+| Unite de Joueur 7 en 42/96 se deplace vers 42/94
+| Unite de Joueur 8 en 4/72 se deplace vers 3/73
+| Unite de Joueur 8 en 11/65 se deplace vers 14/65
+| Unite de Joueur 8 en 14/65 se deplace vers 17/65
+| Unite de Joueur 8 en 2/74 attaque pour 30 en 1/74
+| Unite de Joueur 13 en 1/74 block Unite de 8 en 2/74 
+| Unite de Joueur 9 en 31/67 attaque pour 23 en 31/70
+| Unite de Joueur 9 en 32/68 attaque pour 25 en 31/70
+| Unite de Joueur 9 en 32/68 tue Unite de 2 en 31/70
+| Unite de Joueur 2 en 29/67 block Unite de 9 en 31/67 
+| Unite de Joueur 9 en 32/70 soigne de 14 en 32/70
+| Unite de Joueur 9 en 32/68 attaque pour 16 en 29/67
+| Unite de Joueur 10 en 43/24 se deplace vers 44/23
+| Unite de Joueur 10 en 45/22 se deplace vers 46/21
+| Unite de Joueur 10 en 46/21 se deplace vers 48/20
+| Unite de Joueur 16 en 48/18 block Unite de 10 en 48/20 
+| Unite de Joueur 16 en 48/18 block Unite de 10 en 48/19 
+| Unite de Joueur 11 en 59/28 attaque pour 21 en 58/26
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 11 en 56/34 soigne de 14 en 56/34
+| Unite de Joueur 11 en 56/34 soigne de 14 en 56/34
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 12 en 4/7 se deplace vers 3/9
+| Unite de Joueur 12 en 11/16 se deplace vers 11/21
+| Unite de Joueur 12 en 6/5 se deplace vers 9/5
+| Unite de Joueur 12 en 3/9 se deplace vers 3/11
+| Unite de Joueur 12 en 3/11 se deplace vers 4/13
+| Unite de Joueur 13 en 11/80 se deplace vers 11/82
+| Unite de Joueur 13 en 11/82 se deplace vers 14/82
+| Unite de Joueur 13 en 14/82 se deplace vers 17/82
+| Unite de Joueur 13 en 17/82 se deplace vers 19/82
+| Unite de Joueur 13 en 19/82 se deplace vers 22/82
+| Unite de Joueur 14 en 5/80 se deplace vers 5/77
+| Unite de Joueur 14 en 4/94 se deplace vers 4/93
+| Unite de Joueur 14 en 4/93 se deplace vers 3/92
+| Unite de Joueur 14 en 0/86 se deplace vers 0/83
+| Unite de Joueur 14 en 5/93 se deplace vers 7/93
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 89/80 se deplace vers 91/78
+| Unite de Joueur 15 en 91/78 attaque pour 30 en 92/78
+| Unite de Joueur 15 en 91/78 tue Unite de 1 en 92/78
+| Unite de Joueur 15 en 91/78 se deplace vers 94/80
+| Unite de Joueur 15 en 88/86 se deplace vers 88/85
+| Unite de Joueur 10 en 46/18 block Unite de 16 en 48/18 
+| Unite de Joueur 16 en 58/26 attaque pour 26 en 59/28
+| Unite de Joueur 16 en 58/26 attaque pour 26 en 59/28
+| Unite de Joueur 16 en 58/26 tue Unite de 11 en 59/28
+| Unite de Joueur 10 en 46/18 block Unite de 16 en 48/18 
+| Unite de Joueur 16 en 58/26 attaque pour 30 en 57/29
+| Unite de Joueur 17 en 68/33 se deplace vers 66/33
+| Unite de Joueur 17 en 66/34 se deplace vers 65/34
+| Unite de Joueur 17 en 65/34 se deplace vers 64/34
+| Unite de Joueur 17 en 65/35 se deplace vers 62/34
+| Unite de Joueur 17 en 66/33 se deplace vers 64/33
+| Unite de Joueur 18 en 46/62 attaque pour 25 en 47/65
+| Unite de Joueur 18 en 49/61 se deplace vers 49/59
+| Unite de Joueur 18 en 46/62 attaque pour 25 en 47/65
+| Unite de Joueur 18 en 46/62 tue Unite de 6 en 47/65
+| Unite de Joueur 18 en 49/59 attaque pour 23 en 49/58
+| Unite de Joueur 18 en 46/62 se deplace vers 47/58
+| Unite de Joueur 19 en 32/96 attaque pour 18 en 32/98
+| Unite de Joueur 19 en 32/96 attaque pour 18 en 32/98
+| Unite de Joueur 7 en 31/99 block Unite de 19 en 31/98 
+| Unite de Joueur 19 en 32/94 se deplace vers 32/95
+| Unite de Joueur 19 en 31/94 se deplace vers 32/92
+| Unite de Joueur 0 en 78/91 attaque pour 24 en 80/92
+| Unite de Joueur 0 en 78/91 tue Unite de 15 en 80/92
+| Unite de Joueur 0 en 78/91 se deplace vers 81/91
+| Unite de Joueur 15 en 84/91 block Unite de 0 en 81/91 
+| Unite de Joueur 0 en 70/94 se deplace vers 74/94
+| Unite de Joueur 0 en 74/94 se deplace vers 77/95
+| Unite de Joueur 1 en 95/70 se deplace vers 97/70
+| Unite de Joueur 1 en 95/72 se deplace vers 97/73
+| Unite de Joueur 1 en 97/73 se deplace vers 97/77
+| Unite de Joueur 1 en 99/71 se deplace vers 99/74
+| Unite de Joueur 1 en 95/82 attaque pour 31 en 93/82
+| Unite de Joueur 1 en 95/82 tue Unite de 15 en 93/82
+| Unite de Joueur 2 en 29/67 se deplace vers 30/67
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 30/67 attaque pour 22 en 31/67
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 3 en 12/23 attaque pour 31 en 11/23
+| Unite de Joueur 3 en 12/23 tue Unite de 12 en 11/23
+| Unite de Joueur 3 en 15/32 se deplace vers 14/30
+| Unite de Joueur 3 en 11/64 se deplace vers 14/65
+| Unite de Joueur 3 en 14/65 se deplace vers 16/65
+| Unite de Joueur 3 en 11/32 se deplace vers 12/31
+| Unite de Joueur 4 en 50/58 soigne de 14 en 49/58
+| Unite de Joueur 4 en 50/58 soigne de 14 en 49/58
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 5 en 14/99 soigne de 14 en 14/99
+| Unite de Joueur 5 en 8/94 attaque pour 21 en 6/94
+| Unite de Joueur 5 en 8/93 attaque pour 20 en 7/93
+| Unite de Joueur 5 en 8/93 attaque pour 20 en 7/93
+| Unite de Joueur 5 en 8/93 tue Unite de 14 en 7/93
+| Unite de Joueur 5 en 8/94 attaque pour 21 en 6/94
+| Unite de Joueur 5 en 8/94 tue Unite de 14 en 6/94
+| Unite de Joueur 5 en 15/99 soigne de 14 en 15/99
+| Unite de Joueur 6 en 45/77 soigne de 14 en 45/77
+| Unite de Joueur 6 en 45/69 se deplace vers 45/67
+| Unite de Joueur 6 en 51/68 se deplace vers 51/64
+| Unite de Joueur 6 en 45/79 soigne de 14 en 45/79
+| Unite de Joueur 6 en 45/79 soigne de 14 en 45/79
+| Unite de Joueur 7 en 39/97 se deplace vers 42/96
+| Unite de Joueur 7 en 42/94 se deplace vers 41/93
+| Unite de Joueur 7 en 42/90 se deplace vers 40/91
+| Unite de Joueur 7 en 36/92 attaque pour 26 en 32/92
+| Unite de Joueur 7 en 31/99 soigne de 14 en 31/99
+| Unite de Joueur 8 en 3/73 se deplace vers 1/73
+| Unite de Joueur 13 en 1/74 block Unite de 8 en 2/74 
+| Unite de Joueur 13 en 1/74 block Unite de 8 en 1/73 
+| Unite de Joueur 8 en 17/65 se deplace vers 20/65
+| Unite de Joueur 8 en 1/73 attaque pour 18 en 1/74
+| Unite de Joueur 8 en 1/73 tue Unite de 13 en 1/74
+| Unite de Joueur 9 en 32/70 soigne de 14 en 31/67
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 32/68 
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 31/67 
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 31/67 
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 32/68 
+| Unite de Joueur 10 en 44/23 se deplace vers 44/21
+| Unite de Joueur 10 en 47/20 se deplace vers 49/20
+| Unite de Joueur 10 en 48/20 attaque pour 28 en 48/18
+| Unite de Joueur 10 en 48/19 attaque pour 18 en 48/18
+| Unite de Joueur 10 en 48/19 tue Unite de 16 en 48/18
+| Unite de Joueur 10 en 49/20 se deplace vers 49/23
+| Unite de Joueur 11 en 56/34 soigne de 14 en 56/34
+| Unite de Joueur 11 en 57/29 attaque pour 27 en 58/26
+| Unite de Joueur 11 en 57/29 tue Unite de 16 en 58/26
+| Le Joueur 16 a ete elimine.
+| Unite de Joueur 11 en 56/34 soigne de 14 en 56/34
+| Unite de Joueur 11 en 57/29 se deplace vers 57/32
+| Unite de Joueur 11 en 56/32 soigne de 14 en 57/32
+| Unite de Joueur 12 en 5/20 se deplace vers 5/22
+| Unite de Joueur 12 en 6/26 se deplace vers 7/29
+| Unite de Joueur 12 en 9/5 se deplace vers 12/5
+| Unite de Joueur 12 en 4/8 se deplace vers 4/10
+| Unite de Joueur 12 en 7/2 se deplace vers 8/3
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 14 en 4/92 attaque pour 16 en 8/92
+| Unite de Joueur 14 en 3/92 se deplace vers 3/93
+| Unite de Joueur 14 en 7/94 attaque pour 19 en 8/94
+| Unite de Joueur 14 en 7/94 tue Unite de 5 en 8/94
+| Unite de Joueur 14 en 5/77 se deplace vers 5/75
+| Unite de Joueur 14 en 3/93 se deplace vers 4/93
+| Unite de Joueur 14 en 4/93 se deplace vers 6/93
+| Unite de Joueur 15 en 94/80 se deplace vers 95/81
+| Unite de Joueur 15 en 88/85 se deplace vers 89/84
+| Unite de Joueur 15 en 90/92 soigne de 14 en 90/92
+| Unite de Joueur 15 en 94/82 attaque pour 22 en 95/82
+| Unite de Joueur 15 en 95/81 attaque pour 32 en 95/82
+| Unite de Joueur 15 en 95/81 tue Unite de 1 en 95/82
+| Unite de Joueur 17 en 73/37 se deplace vers 71/36
+| Unite de Joueur 17 en 64/34 se deplace vers 64/35
+| Unite de Joueur 17 en 62/34 se deplace vers 59/34
+| Unite de Joueur 17 en 64/35 se deplace vers 63/35
+| Unite de Joueur 17 en 63/35 se deplace vers 62/35
+| Unite de Joueur 18 en 49/59 attaque pour 23 en 49/58
+| Unite de Joueur 18 en 47/58 attaque pour 25 en 49/58
+| Unite de Joueur 18 en 47/58 tue Unite de 4 en 49/58
+| Unite de Joueur 18 en 49/59 se deplace vers 49/58
+| Unite de Joueur 18 en 47/58 attaque pour 28 en 50/58
+| Unite de Joueur 18 en 47/58 attaque pour 28 en 50/58
+| Unite de Joueur 19 en 29/92 se deplace vers 32/91
+| Unite de Joueur 19 en 32/91 attaque pour 22 en 36/92
+| Unite de Joueur 19 en 32/96 attaque pour 18 en 32/98
+| Unite de Joueur 19 en 31/98 attaque pour 18 en 32/98
+| Unite de Joueur 19 en 32/91 attaque pour 22 en 36/92
+| Unite de Joueur 19 en 32/91 tue Unite de 7 en 36/92
+| Unite de Joueur 0 en 77/95 se deplace vers 79/93
+| Unite de Joueur 0 en 74/95 se deplace vers 76/95
+| Unite de Joueur 0 en 78/92 se deplace vers 81/92
+| Unite de Joueur 0 en 72/93 se deplace vers 75/93
+| Unite de Joueur 0 en 79/93 se deplace vers 82/92
+| Unite de Joueur 1 en 97/70 se deplace vers 97/72
+| Unite de Joueur 1 en 94/64 se deplace vers 97/64
+| Unite de Joueur 1 en 97/77 se deplace vers 96/80
+| Unite de Joueur 1 en 96/80 se deplace vers 95/80
+| Unite de Joueur 1 en 96/66 se deplace vers 95/67
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 3 en 16/65 se deplace vers 19/65
+| Unite de Joueur 3 en 10/56 se deplace vers 10/59
+| Unite de Joueur 3 en 10/59 se deplace vers 10/61
+| Unite de Joueur 3 en 14/26 se deplace vers 14/22
+| Unite de Joueur 3 en 15/59 se deplace vers 18/61
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 4 en 50/58 soigne de 14 en 50/58
+| Unite de Joueur 5 en 8/93 se deplace vers 7/93
+| Unite de Joueur 14 en 6/93 block Unite de 5 en 7/93 
+| Unite de Joueur 14 en 6/93 block Unite de 5 en 7/93 
+| Unite de Joueur 14 en 6/93 block Unite de 5 en 7/93 
+| Unite de Joueur 5 en 8/92 se deplace vers 6/92
+| Unite de Joueur 6 en 48/71 se deplace vers 48/69
+| Unite de Joueur 6 en 52/68 se deplace vers 52/65
+| Unite de Joueur 6 en 45/67 se deplace vers 45/65
+| Unite de Joueur 6 en 51/64 se deplace vers 52/61
+| Unite de Joueur 6 en 41/70 se deplace vers 39/70
+| Unite de Joueur 7 en 41/93 se deplace vers 39/93
+| Unite de Joueur 7 en 40/91 se deplace vers 36/91
+| Unite de Joueur 7 en 39/93 se deplace vers 37/93
+| Unite de Joueur 7 en 36/91 se deplace vers 33/91
+| Unite de Joueur 7 en 32/98 soigne de 14 en 32/98
+| Unite de Joueur 8 en 2/74 se deplace vers 4/75
+| Unite de Joueur 8 en 4/75 attaque pour 32 en 5/75
+| Unite de Joueur 8 en 4/75 tue Unite de 14 en 5/75
+| Unite de Joueur 8 en 4/75 se deplace vers 2/78
+| Unite de Joueur 8 en 20/65 se deplace vers 22/66
+| Unite de Joueur 8 en 2/78 se deplace vers 0/81
+| Unite de Joueur 9 en 32/68 attaque pour 17 en 30/67
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 31/67 
+| Unite de Joueur 9 en 31/67 attaque pour 14 en 30/67
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 32/68 
+| Unite de Joueur 9 en 32/70 soigne de 14 en 31/67
+| Unite de Joueur 10 en 49/23 se deplace vers 50/25
+| Unite de Joueur 10 en 50/25 se deplace vers 53/25
+| Unite de Joueur 10 en 44/21 se deplace vers 44/23
+| Unite de Joueur 10 en 48/20 se deplace vers 48/23
+| Unite de Joueur 10 en 48/19 se deplace vers 48/21
+| Unite de Joueur 11 en 56/30 se deplace vers 58/31
+| Unite de Joueur 11 en 56/34 soigne de 14 en 57/32
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 11 en 58/31 attaque pour 27 en 59/34
+| Unite de Joueur 11 en 58/31 attaque pour 27 en 59/34
+| Unite de Joueur 11 en 58/31 tue Unite de 17 en 59/34
+| Unite de Joueur 12 en 3/14 se deplace vers 3/15
+| Unite de Joueur 12 en 4/10 se deplace vers 4/12
+| Unite de Joueur 12 en 4/13 se deplace vers 4/15
+| Unite de Joueur 12 en 8/3 se deplace vers 11/3
+| Unite de Joueur 12 en 7/29 attaque pour 18 en 8/29
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 14 en 6/93 attaque pour 13 en 6/92
+| Unite de Joueur 8 en 0/81 block Unite de 14 en 0/83 
+| Unite de Joueur 8 en 0/81 block Unite de 14 en 0/83 
+| Unite de Joueur 14 en 4/92 attaque pour 16 en 6/92
+| Unite de Joueur 14 en 4/92 tue Unite de 5 en 6/92
+| Unite de Joueur 5 en 7/93 block Unite de 14 en 7/94 
+| Unite de Joueur 15 en 95/81 attaque pour 36 en 95/80
+| Unite de Joueur 15 en 90/92 soigne de 14 en 90/92
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 90/91 soigne de 14 en 90/91
+| Unite de Joueur 15 en 89/84 se deplace vers 89/83
+| Unite de Joueur 17 en 62/35 se deplace vers 62/34
+| Unite de Joueur 17 en 78/41 se deplace vers 80/42
+| Unite de Joueur 17 en 67/37 se deplace vers 66/35
+| Unite de Joueur 17 en 62/34 se deplace vers 61/34
+| Unite de Joueur 17 en 61/34 se deplace vers 60/34
+| Unite de Joueur 18 en 47/58 attaque pour 28 en 50/58
+| Unite de Joueur 18 en 47/58 attaque pour 28 en 50/58
+| Unite de Joueur 18 en 47/58 attaque pour 28 en 50/58
+| Unite de Joueur 18 en 47/58 attaque pour 28 en 50/58
+| Unite de Joueur 18 en 49/58 attaque pour 23 en 50/58
+| Unite de Joueur 18 en 49/58 tue Unite de 4 en 50/58
+| Unite de Joueur 19 en 31/98 attaque pour 18 en 32/98
+| Unite de Joueur 19 en 32/92 attaque pour 20 en 33/91
+| Unite de Joueur 7 en 33/91 block Unite de 19 en 32/92 
+| Unite de Joueur 19 en 31/98 attaque pour 18 en 32/98
+| Unite de Joueur 19 en 31/98 tue Unite de 7 en 32/98
+| Unite de Joueur 19 en 32/92 attaque pour 20 en 33/91
+| Unite de Joueur 19 en 32/92 tue Unite de 7 en 33/91
+| Unite de Joueur 19 en 32/95 se deplace vers 31/95
+| Unite de Joueur 19 en 32/91 se deplace vers 34/92
+| Unite de Joueur 0 en 76/95 se deplace vers 77/95
+| Unite de Joueur 0 en 77/95 se deplace vers 78/94
+| Unite de Joueur 0 en 63/92 soigne de 14 en 63/92
+| Unite de Joueur 0 en 63/90 soigne de 14 en 63/90
+| Unite de Joueur 0 en 63/90 soigne de 14 en 63/90
+| Unite de Joueur 1 en 85/73 se deplace vers 85/75
+| Unite de Joueur 1 en 95/67 se deplace vers 95/69
+| Unite de Joueur 1 en 97/72 se deplace vers 97/73
+| Unite de Joueur 1 en 97/73 se deplace vers 97/75
+| Unite de Joueur 1 en 95/69 se deplace vers 95/70
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 2 en 26/61 soigne de 14 en 26/61
+| Unite de Joueur 2 en 28/61 soigne de 14 en 28/61
+| Unite de Joueur 2 en 30/67 attaque pour 22 en 31/67
+| Unite de Joueur 3 en 14/30 se deplace vers 11/30
+| Unite de Joueur 3 en 14/31 se deplace vers 14/32
+| Unite de Joueur 3 en 11/30 se deplace vers 8/30
+| Unite de Joueur 3 en 14/22 se deplace vers 12/21
+| Unite de Joueur 3 en 12/31 se deplace vers 11/30
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 4 en 51/58 soigne de 14 en 51/58
+| Unite de Joueur 5 en 30/99 attaque pour 18 en 31/99
+| Unite de Joueur 14 en 6/93 block Unite de 5 en 7/93 
+| Unite de Joueur 14 en 6/93 block Unite de 5 en 7/93 
+| Unite de Joueur 5 en 8/97 se deplace vers 7/97
+| Unite de Joueur 14 en 6/93 block Unite de 5 en 7/93 
+| Unite de Joueur 6 en 43/74 se deplace vers 43/73
+| Unite de Joueur 6 en 45/65 se deplace vers 47/65
+| Unite de Joueur 6 en 47/65 se deplace vers 49/65
+| Unite de Joueur 6 en 43/73 se deplace vers 43/72
+| Unite de Joueur 6 en 52/61 attaque pour 22 en 51/58
+| Unite de Joueur 7 en 38/98 se deplace vers 36/98
+| Unite de Joueur 7 en 31/99 se deplace vers 34/99
+| Unite de Joueur 7 en 34/99 soigne de 14 en 34/99
+| Unite de Joueur 7 en 37/93 se deplace vers 36/92
+| Unite de Joueur 7 en 34/99 soigne de 14 en 34/99
+| Unite de Joueur 14 en 0/83 block Unite de 8 en 0/81 
+| Unite de Joueur 8 en 22/66 se deplace vers 22/68
+| Unite de Joueur 8 en 0/81 attaque pour 34 en 0/83
+| Unite de Joueur 8 en 0/81 tue Unite de 14 en 0/83
+| Unite de Joueur 8 en 0/81 se deplace vers 0/86
+| Unite de Joueur 8 en 0/86 se deplace vers 0/91
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 31/67 
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 31/67 
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 32/68 
+| Unite de Joueur 9 en 32/70 soigne de 14 en 31/67
+| Unite de Joueur 2 en 30/67 block Unite de 9 en 32/68 
+| Unite de Joueur 10 en 44/23 se deplace vers 44/25
+| Unite de Joueur 10 en 48/23 se deplace vers 48/26
+| Unite de Joueur 10 en 44/25 se deplace vers 44/27
+| Unite de Joueur 10 en 48/26 se deplace vers 47/28
+| Unite de Joueur 10 en 53/25 se deplace vers 55/27
+| Unite de Joueur 11 en 58/31 se deplace vers 58/34
+| Unite de Joueur 11 en 56/32 soigne de 14 en 56/32
+| Unite de Joueur 17 en 60/34 block Unite de 11 en 58/34 
+| Unite de Joueur 11 en 56/34 soigne de 14 en 56/34
+| Unite de Joueur 11 en 57/32 se deplace vers 59/33
+| Unite de Joueur 12 en 4/12 se deplace vers 4/13
+| Unite de Joueur 12 en 12/5 soigne de 14 en 12/5
+| Unite de Joueur 12 en 5/22 se deplace vers 7/23
+| Unite de Joueur 12 en 4/15 se deplace vers 4/18
+| Unite de Joueur 12 en 11/3 soigne de 14 en 11/3
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 13 en 22/82 soigne de 14 en 22/82
+| Unite de Joueur 14 en 7/94 attaque pour 23 en 7/93
+| Unite de Joueur 14 en 6/93 attaque pour 20 en 7/93
+| Unite de Joueur 14 en 6/93 tue Unite de 5 en 7/93
+| Unite de Joueur 14 en 4/92 se deplace vers 2/91
+| Unite de Joueur 14 en 2/91 attaque pour 26 en 0/91
+| Unite de Joueur 14 en 7/94 se deplace vers 6/97
+| Unite de Joueur 15 en 89/83 se deplace vers 89/81

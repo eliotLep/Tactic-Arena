@@ -1,0 +1,32 @@
+| Unite de Joueur 0 en 2/8 soigne de 14 en 2/7
+| Unite de Joueur 0 en 2/8 soigne de 14 en 2/8
+| Unite de Joueur 0 en 2/7 se deplace vers 4/10
+| Unite de Joueur 0 en 1/6 se deplace vers 0/9
+| Unite de Joueur 0 en 0/9 se deplace vers 4/9
+| Unite de Joueur 1 en 7/12 se deplace vers 7/13
+| Unite de Joueur 1 en 6/10 se deplace vers 5/10
+| Unite de Joueur 1 en 7/10 attaque pour 20 en 4/9
+| Unite de Joueur 1 en 5/10 attaque pour 19 en 4/10
+| Unite de Joueur 1 en 8/10 attaque pour 23 en 4/9
+| Unite de Joueur 1 en 8/10 tue Unite de 0 en 4/9
+| Unite de Joueur 0 en 2/8 soigne de 14 en 2/8
+| Unite de Joueur 1 en 5/10 block Unite de 0 en 4/10 
+| Unite de Joueur 0 en 2/8 soigne de 14 en 2/8
+| Unite de Joueur 1 en 5/10 block Unite de 0 en 4/10 
+| Unite de Joueur 0 en 2/8 soigne de 14 en 2/8
+| Unite de Joueur 0 en 4/10 block Unite de 1 en 6/11 
+| Unite de Joueur 1 en 6/11 attaque pour 25 en 4/10
+| Unite de Joueur 1 en 6/11 tue Unite de 0 en 4/10
+| Unite de Joueur 1 en 7/10 se deplace vers 5/8
+| Unite de Joueur 1 en 5/10 se deplace vers 4/9
+| Unite de Joueur 1 en 4/9 se deplace vers 3/8
+| Unite de Joueur 0 en 2/8 soigne de 14 en 2/8
+| Unite de Joueur 0 en 3/6 attaque pour 23 en 5/8
+| Unite de Joueur 1 en 5/8 block Unite de 0 en 2/6 
+| Unite de Joueur 0 en 2/6 attaque pour 20 en 5/8
+| Unite de Joueur 0 en 2/6 tue Unite de 1 en 5/8
+| Unite de Joueur 0 en 2/6 attaque pour 15 en 3/8
+| Unite de Joueur 1 en 8/10 se deplace vers 7/9
+| Unite de Joueur 1 en 7/13 se deplace vers 5/13
+| Unite de Joueur 1 en 3/8 attaque pour 18 en 2/8
+| Unite de Joueur 1 en 6/11 se deplace vers 5/9

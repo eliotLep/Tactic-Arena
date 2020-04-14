@@ -1,0 +1,8 @@
+MAP : 60 x 60 || Joueurs : 2 || UNITEE : 10 par joueurs
+| Unite de Joueur 1 en 56/29 se deplace vers 53/29
+| Unite de Joueur 1 en 53/29 se deplace vers 52/27
+| Unite de Joueur 1 en 52/27 se deplace vers 51/25
+| Joueur 1 pose un bloc en 50/25
+| Joueur 1 pose un bloc en 51/26
+| Unite de Joueur 1 en 51/25 se deplace vers 52/26
+| Joueur 1 pose un bloc en 52/27

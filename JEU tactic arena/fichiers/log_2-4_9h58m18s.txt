@@ -1,0 +1,32 @@
+| Unite de Joueur 2 en 16/0 se deplace vers 11/0
+| Unite de Joueur 2 en 17/0 se deplace vers 15/0
+| Unite de Joueur 2 en 15/0 se deplace vers 14/1
+| Unite de Joueur 2 en 11/0 se deplace vers 8/0
+| Unite de Joueur 2 en 18/0 se deplace vers 18/4
+| Unite de Joueur 3 en 6/13 se deplace vers 5/15
+| Unite de Joueur 3 en 5/11 se deplace vers 4/13
+| Unite de Joueur 3 en 5/12 attaque pour 21 en 3/16
+| Unite de Joueur 3 en 6/12 se deplace vers 4/14
+| Unite de Joueur 3 en 7/11 se deplace vers 5/11
+| Unite de Joueur 2 en 8/0 block Unite de 4 en 5/0 
+| Unite de Joueur 4 en 6/2 se deplace vers 7/1
+| Unite de Joueur 4 en 7/1 se deplace vers 8/1
+| Unite de Joueur 4 en 6/1 soigne de 14 en 5/1
+| Unite de Joueur 4 en 5/2 se deplace vers 8/2
+| Unite de Joueur 2 en 17/1 se deplace vers 18/2
+| Unite de Joueur 2 en 17/2 se deplace vers 17/7
+| Unite de Joueur 2 en 16/1 se deplace vers 15/2
+| Unite de Joueur 2 en 18/2 se deplace vers 19/4
+| Unite de Joueur 2 en 18/4 se deplace vers 18/7
+| Unite de Joueur 3 en 6/11 se deplace vers 6/14
+| Unite de Joueur 3 en 5/15 attaque pour 25 en 3/16
+| Unite de Joueur 3 en 5/15 tue Unite de 1 en 3/16
+| Unite de Joueur 3 en 4/14 se deplace vers 3/16
+| Unite de Joueur 3 en 5/12 se deplace vers 3/13
+| Unite de Joueur 3 en 5/13 se deplace vers 4/14
+| Unite de Joueur 2 en 8/0 block Unite de 4 en 7/0 
+| Unite de Joueur 4 en 7/0 attaque pour 25 en 8/0
+| Unite de Joueur 4 en 7/0 tue Unite de 2 en 8/0
+| Unite de Joueur 4 en 5/1 se deplace vers 7/3
+| Unite de Joueur 4 en 5/0 se deplace vers 5/3
+| Unite de Joueur 4 en 8/1 se deplace vers 9/1

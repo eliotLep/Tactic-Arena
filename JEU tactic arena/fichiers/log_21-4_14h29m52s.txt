@@ -1,0 +1,3 @@
+MAP : 20 x 20 || Joueurs : 2 || UNITEE : 7 par joueurs
+| Unite de Joueur 0 en 12/15 se deplace vers 13/12
+| Unite de Joueur 0 en 13/12 se deplace vers 14/9

@@ -1,0 +1,5 @@
+| Unite de Joueur 0 en 19/19 se deplace vers 16/19
+| Unite de Joueur 0 en 16/19 se deplace vers 17/19
+| Unite de Joueur 0 en 17/19 se deplace vers 19/21
+| Unite de Joueur 0 en 19/21 se deplace vers 18/21
+| Unite de Joueur 0 en 18/21 se deplace vers 18/22

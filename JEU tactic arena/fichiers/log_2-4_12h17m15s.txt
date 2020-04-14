@@ -1,0 +1,6 @@
+MAP : 18 x 18 || Joueurs : 8 || UNITEE : 7 par joueurs
+| Unite de Joueur 0 en 11/1 se deplace vers 10/2
+| Unite de Joueur 0 en 10/2 se deplace vers 10/3
+| Unite de Joueur 0 en 10/3 se deplace vers 9/4
+| Unite de Joueur 0 en 9/4 se deplace vers 9/3
+| Unite de Joueur 0 en 9/3 se deplace vers 9/2

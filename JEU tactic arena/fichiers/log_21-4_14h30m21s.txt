@@ -1,0 +1,141 @@
+MAP : 62 x 62 || Joueurs : 2 || UNITEE : 10 par joueurs
+| Unite de Joueur 0 en 1/29 se deplace vers 5/29
+| Unite de Joueur 0 en 5/29 se deplace vers 8/28
+| Unite de Joueur 0 en 8/28 se deplace vers 10/26
+| Unite de Joueur 0 en 10/26 se deplace vers 12/24
+| Unite de Joueur 0 en 12/24 se deplace vers 15/23
+| Unite de Joueur 0 en 15/23 se deplace vers 17/21
+| Unite de Joueur 0 en 17/21 se deplace vers 20/20
+| Unite de Joueur 0 en 20/20 se deplace vers 22/18
+| Unite de Joueur 0 en 22/18 se deplace vers 24/17
+| Joueur 0 pose un bloc en 25/17
+| Unite de Joueur 0 en 24/17 se deplace vers 25/18
+| Joueur 0 pose un bloc en 26/18
+| Unite de Joueur 0 en 25/18 se deplace vers 25/19
+| Joueur 0 pose un bloc en 26/19
+| Joueur 0 pose un bloc en 25/20
+| Unite de Joueur 0 en 25/19 se deplace vers 27/18
+| Joueur 0 pose un bloc en 27/19
+| Unite de Joueur 0 en 27/18 se deplace vers 25/19
+| Unite de Joueur 0 en 25/19 se deplace vers 25/20
+| Joueur 0 pose un bloc en 26/20
+| Unite de Joueur 0 en 25/20 se deplace vers 25/21
+| Unite de Joueur 0 en 25/21 se deplace vers 24/20
+| Joueur 0 pose un bloc en 24/21
+| Unite de Joueur 0 en 24/20 se deplace vers 25/20
+| Joueur 0 pose un bloc en 25/21
+| Unite de Joueur 0 en 25/20 se deplace vers 24/17
+| Joueur 0 pose un bloc en 24/16
+| Unite de Joueur 0 en 24/17 se deplace vers 23/16
+| Joueur 0 pose un bloc en 23/15
+| Unite de Joueur 0 en 23/16 se deplace vers 22/15
+| Joueur 0 pose un bloc en 22/14
+| Unite de Joueur 0 en 22/15 se deplace vers 23/18
+| Joueur 0 pose un bloc en 24/18
+| Unite de Joueur 0 en 23/18 se deplace vers 23/17
+| Joueur 0 pose un bloc en 24/17
+| Unite de Joueur 0 en 23/17 se deplace vers 22/18
+| Joueur 0 pose un bloc en 23/18
+| Unite de Joueur 0 en 22/18 se deplace vers 21/15
+| Unite de Joueur 0 en 21/15 se deplace vers 21/14
+| Joueur 0 pose un bloc en 21/13
+| Unite de Joueur 0 en 21/14 se deplace vers 19/16
+| Unite de Joueur 0 en 19/16 se deplace vers 18/16
+| Joueur 0 pose un bloc en 18/17
+| Joueur 0 pose un bloc en 17/16
+| Unite de Joueur 0 en 18/16 se deplace vers 19/19
+| Joueur 0 pose un bloc en 19/18
+| Unite de Joueur 0 en 19/19 se deplace vers 20/20
+| Joueur 0 pose un bloc en 20/19
+| Joueur 0 pose un bloc en 21/20
+| Unite de Joueur 0 en 20/20 se deplace vers 21/21
+| Joueur 0 pose un bloc en 22/21
+| Unite de Joueur 0 en 21/21 se deplace vers 22/22
+| Unite de Joueur 0 en 22/22 se deplace vers 24/24
+| Joueur 0 pose un bloc en 24/23
+| Unite de Joueur 0 en 24/24 se deplace vers 21/23
+| Unite de Joueur 0 en 21/23 se deplace vers 19/21
+| Unite de Joueur 0 en 19/21 se deplace vers 17/20
+| Unite de Joueur 0 en 17/20 se deplace vers 16/19
+| Unite de Joueur 0 en 16/19 se deplace vers 15/18
+| Unite de Joueur 0 en 15/18 se deplace vers 15/19
+| Unite de Joueur 0 en 15/19 se deplace vers 15/18
+| Joueur 0 pose un bloc en 16/18
+| Unite de Joueur 0 en 15/18 se deplace vers 16/19
+| Joueur 0 pose un bloc en 17/19
+| Unite de Joueur 0 en 16/19 se deplace vers 18/21
+| Joueur 0 pose un bloc en 18/20
+| Joueur 0 pose un bloc en 19/21
+| Unite de Joueur 0 en 18/21 se deplace vers 19/22
+| Joueur 0 pose un bloc en 20/22
+| Unite de Joueur 0 en 19/22 se deplace vers 20/23
+| Joueur 0 pose un bloc en 21/23
+| Unite de Joueur 0 en 20/23 se deplace vers 20/24
+| Joueur 0 pose un bloc en 20/23
+| Unite de Joueur 0 en 20/24 se deplace vers 19/24
+| Joueur 0 pose un bloc en 19/23
+| Unite de Joueur 0 en 19/24 se deplace vers 18/23
+| Unite de Joueur 0 en 18/23 se deplace vers 18/24
+| Joueur 0 pose un bloc en 18/23
+| Unite de Joueur 0 en 18/24 se deplace vers 17/23
+| Joueur 0 pose un bloc en 17/22
+| Unite de Joueur 0 en 17/23 se deplace vers 16/22
+| Joueur 0 pose un bloc en 16/21
+| Unite de Joueur 0 en 16/22 se deplace vers 15/22
+| Joueur 0 pose un bloc en 15/21
+| Foret en 2/1  nait
+| Foret en 3/52  nait
+| Foret en 4/22  nait
+| Foret en 7/39  nait
+| Foret en 7/44  nait
+| Foret en 7/52  nait
+| Foret en 10/26  nait
+| Foret en 11/5  nait
+| Foret en 12/42  nait
+| Foret en 14/42  nait
+| Foret en 18/14  nait
+| Foret en 18/35  nait
+| Foret en 20/32  nait
+| Foret en 22/51  nait
+| Foret en 24/7  nait
+| Foret en 25/49  nait
+| Foret en 26/16  nait
+| Foret en 26/51  nait
+| Foret en 27/49  nait
+| Foret en 28/1  nait
+| Foret en 29/28  nait
+| Foret en 30/47  nait
+| Foret en 31/40  nait
+| Foret en 34/19  nait
+| Foret en 35/37  nait
+| Foret en 35/40  nait
+| Foret en 37/25  nait
+| Foret en 38/47  nait
+| Foret en 40/36  nait
+| Foret en 40/54  nait
+| Foret en 42/41  nait
+| Foret en 44/8  nait
+| Foret en 44/24  nait
+| Foret en 47/16  nait
+| Foret en 49/16  nait
+| Foret en 52/20  nait
+| Foret en 54/53  nait
+| Foret en 56/15  nait
+| Foret en 58/22  nait
+| Foret en 59/54  nait
+| Unite de Joueur 0 en 15/22 se deplace vers 15/21
+| Joueur 0 pose un bloc en 14/21
+| Joueur 0 pose un bloc en 15/22
+| Unite de Joueur 0 en 15/21 se deplace vers 16/22
+| Joueur 0 pose un bloc en 16/23
+| Unite de Joueur 0 en 16/22 se deplace vers 18/23
+| Unite de Joueur 0 en 18/23 se deplace vers 17/23
+| Joueur 0 pose un bloc en 17/24
+| Unite de Joueur 0 en 17/23 se deplace vers 18/24
+| Joueur 0 pose un bloc en 18/25
+| Unite de Joueur 0 en 18/24 se deplace vers 19/25
+| Joueur 0 pose un bloc en 19/26
+| Unite de Joueur 0 en 19/25 se deplace vers 19/29
+| Unite de Joueur 0 en 19/29 se deplace vers 17/31
+| Unite de Joueur 0 en 17/31 se deplace vers 13/31
+| Unite de Joueur 0 en 13/31 se deplace vers 14/32

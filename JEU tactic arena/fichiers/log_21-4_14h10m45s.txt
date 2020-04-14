@@ -1,0 +1,15 @@
+MAP : 20 x 20 || Joueurs : 2 || UNITEE : 7 par joueurs
+| Unite de Joueur 1 en 11/1 se deplace vers 10/2
+| Unite de Joueur 1 en 10/2 se deplace vers 9/4
+| Unite de Joueur 1 en 12/1 se deplace vers 9/2
+| Unite de Joueur 1 en 11/2 se deplace vers 9/1
+| Unite de Joueur 1 en 9/2 se deplace vers 8/5
+| Unite de Joueur 1 en 9/1 se deplace vers 8/3
+| Unite de Joueur 1 en 13/1 se deplace vers 11/1
+| Unite de Joueur 1 en 11/1 se deplace vers 10/2
+| Unite de Joueur 1 en 11/3 se deplace vers 9/5
+| Unite de Joueur 1 en 9/5 se deplace vers 9/9
+| Unite de Joueur 1 en 12/2 se deplace vers 11/4
+| Unite de Joueur 1 en 11/4 se deplace vers 9/5
+| Unite de Joueur 1 en 12/3 se deplace vers 12/6
+| Unite de Joueur 1 en 12/6 se deplace vers 12/9

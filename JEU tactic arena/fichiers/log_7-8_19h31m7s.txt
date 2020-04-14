@@ -1,0 +1,717 @@
+MAP : 30 x 30 || Joueurs : 2 || UNITEE : 20 par joueurs
+| Unite de Joueur 1 en 25/15 se deplace vers 23/16
+| Unite de Joueur 1 en 23/16 se deplace vers 21/16
+| Unite de Joueur 1 en 25/11 se deplace vers 24/13
+| Unite de Joueur 1 en 24/13 se deplace vers 21/14
+| Unite de Joueur 1 en 25/12 se deplace vers 24/14
+| Unite de Joueur 1 en 25/13 se deplace vers 23/14
+| Unite de Joueur 1 en 23/14 se deplace vers 21/15
+| Unite de Joueur 1 en 24/14 se deplace vers 24/17
+| Unite de Joueur 1 en 25/14 se deplace vers 25/10
+| Unite de Joueur 1 en 26/11 se deplace vers 24/10
+| Unite de Joueur 1 en 26/13 se deplace vers 24/11
+| Unite de Joueur 1 en 24/11 se deplace vers 21/10
+| Unite de Joueur 1 en 25/10 se deplace vers 23/9
+| Unite de Joueur 1 en 24/10 se deplace vers 22/9
+| Unite de Joueur 1 en 27/11 soigne de 14 en 29/12
+| Unite de Joueur 1 en 26/14 se deplace vers 25/11
+| Unite de Joueur 1 en 25/11 se deplace vers 25/8
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/14 se deplace vers 25/13
+| Unite de Joueur 1 en 27/13 se deplace vers 25/14
+| Unite de Joueur 1 en 25/13 se deplace vers 25/9
+| Unite de Joueur 1 en 25/14 se deplace vers 25/11
+| Unite de Joueur 1 en 27/15 se deplace vers 25/13
+| Unite de Joueur 1 en 28/14 se deplace vers 29/16
+| Unite de Joueur 1 en 28/11 se deplace vers 27/10
+| Unite de Joueur 1 en 27/10 se deplace vers 25/10
+| Unite de Joueur 1 en 28/12 se deplace vers 27/10
+| Unite de Joueur 1 en 29/11 se deplace vers 29/8
+| Unite de Joueur 1 en 28/13 soigne de 14 en 25/13
+| Unite de Joueur 1 en 27/10 se deplace vers 27/8
+| Unite de Joueur 1 en 28/15 se deplace vers 28/18
+| Unite de Joueur 1 en 29/16 se deplace vers 28/19
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 29/12 se deplace vers 29/16
+| Unite de Joueur 1 en 28/18 se deplace vers 26/19
+| Unite de Joueur 1 en 29/8 se deplace vers 27/7
+| Unite de Joueur 1 en 29/16 se deplace vers 29/20
+| Joueur 0 pose un chateau en 17/18
+| Joueur 0 pose un bloc en 15/19
+| Foret en 11/12  nait
+| Foret en 24/11  nait
+| Unite de Joueur 1 en 21/16 se deplace vers 20/18
+| Unite de Joueur 1 en 20/18 se deplace vers 18/18
+| Unite de Joueur 1 en 21/14 se deplace vers 21/16
+| Unite de Joueur 1 en 21/15 se deplace vers 20/14
+| Unite de Joueur 1 en 20/14 se deplace vers 18/14
+| Unite de Joueur 1 en 21/10 se deplace vers 19/11
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 19/11 se deplace vers 17/13
+| Unite de Joueur 1 en 23/9 se deplace vers 20/10
+| Unite de Joueur 1 en 25/8 se deplace vers 22/8
+| Unite de Joueur 1 en 22/8 se deplace vers 19/8
+| Unite de Joueur 1 en 22/9 se deplace vers 22/6
+| Unite de Joueur 1 en 22/6 se deplace vers 19/6
+| Unite de Joueur 1 en 25/9 se deplace vers 24/7
+| Unite de Joueur 1 en 24/7 se deplace vers 23/4
+| Unite de Joueur 1 en 20/10 se deplace vers 19/12
+| Unite de Joueur 1 en 24/17 se deplace vers 23/19
+| Unite de Joueur 1 en 23/19 se deplace vers 20/19
+| Unite de Joueur 1 en 25/10 se deplace vers 24/11
+| Unite de Joueur 1 en 26/19 se deplace vers 23/19
+| Unite de Joueur 1 en 23/19 se deplace vers 21/20
+| Unite de Joueur 1 en 24/11 se deplace vers 24/13
+| Unite de Joueur 1 en 25/13 se deplace vers 25/17
+| Unite de Joueur 1 en 27/7 se deplace vers 26/9
+| Unite de Joueur 1 en 25/17 se deplace vers 22/18
+| Unite de Joueur 1 en 25/11 se deplace vers 25/13
+| Unite de Joueur 1 en 25/13 se deplace vers 25/16
+| Unite de Joueur 1 en 26/9 se deplace vers 25/11
+| Unite de Joueur 1 en 27/12 se deplace vers 26/14
+| Unite de Joueur 1 en 26/14 se deplace vers 24/15
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/8 se deplace vers 28/10
+| Unite de Joueur 1 en 28/10 se deplace vers 28/12
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 28/19 se deplace vers 25/19
+| Unite de Joueur 1 en 25/19 se deplace vers 22/19
+| Unite de Joueur 1 en 29/20 se deplace vers 26/21
+| Unite de Joueur 1 en 26/21 se deplace vers 22/21
+| Foret en 10/13  nait
+| Foret en 10/28  nait
+| Foret en 21/13  nait
+| Unite de Joueur 1 en 17/13 se deplace vers 17/10
+| Unite de Joueur 1 en 18/14 se deplace vers 20/15
+| Unite de Joueur 1 en 17/10 se deplace vers 17/14
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 19/8 se deplace vers 18/11
+| Unite de Joueur 1 en 19/12 se deplace vers 19/14
+| Unite de Joueur 1 en 18/11 se deplace vers 21/10
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 19/6 se deplace vers 20/8
+| Unite de Joueur 1 en 20/8 se deplace vers 22/9
+| Unite de Joueur 1 en 19/14 se deplace vers 22/15
+| Unite de Joueur 1 en 20/19 attaque batiment pour 18 en 15/19
+| Unite de Joueur 1 en 20/15 se deplace vers 21/14
+| Unite de Joueur 1 en 20/19 attaque batiment pour 18 en 15/19
+| Unite de Joueur 1 en 22/18 se deplace vers 19/19
+| Unite de Joueur 1 en 19/19 se deplace vers 17/19
+| Unite de Joueur 1 en 21/20 se deplace vers 23/20
+| Unite de Joueur 1 en 22/19 se deplace vers 25/19
+| Unite de Joueur 1 en 22/21 se deplace vers 26/21
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 23/4 se deplace vers 26/4
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 23/20 se deplace vers 24/21
+| Unite de Joueur 1 en 24/13 se deplace vers 27/13
+| Unite de Joueur 1 en 26/4 se deplace vers 27/1
+| Unite de Joueur 1 en 24/15 se deplace vers 26/14
+| Unite de Joueur 1 en 25/11 se deplace vers 26/11
+| Unite de Joueur 1 en 25/16 se deplace vers 26/17
+| Unite de Joueur 1 en 26/14 se deplace vers 29/14
+| Unite de Joueur 1 en 26/11 se deplace vers 28/10
+| Unite de Joueur 1 en 25/19 se deplace vers 28/19
+| Unite de Joueur 1 en 26/21 se deplace vers 29/22
+| Unite de Joueur 1 en 26/17 se deplace vers 25/17
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/13 se deplace vers 28/15
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 28/12 se deplace vers 29/13
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 29/13 se deplace vers 29/12
+| Foret en 3/23  nait
+| Foret en 9/14  nait
+| Foret en 29/3  nait
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/19 attaque batiment pour 20 en 15/19
+| Unite de Joueur 1 en 17/19 attaque batiment pour 20 en 15/19
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 20/19 attaque batiment pour 18 en 15/19
+| Unite de Joueur 1 en 20/19 attaque batiment pour 18 en 15/19
+| Unite de Joueur 1 en 20/19 detruit batiment de 0 en 15/19
+| Unite de Joueur 1 en 21/14 se deplace vers 24/14
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 22/9 se deplace vers 25/9
+| Unite de Joueur 1 en 22/15 se deplace vers 25/15
+| Unite de Joueur 1 en 25/9 se deplace vers 27/9
+| Unite de Joueur 1 en 21/10 se deplace vers 24/10
+| Unite de Joueur 1 en 24/14 se deplace vers 27/14
+| Unite de Joueur 1 en 24/21 se deplace vers 27/21
+| Unite de Joueur 1 en 24/10 se deplace vers 27/10
+| Unite de Joueur 1 en 25/15 se deplace vers 27/13
+| Unite de Joueur 1 en 27/1 se deplace vers 29/3
+| Unite de Joueur 1 en 25/17 se deplace vers 26/17
+| Unite de Joueur 1 en 26/17 se deplace vers 25/17
+| Unite de Joueur 1 en 27/21 se deplace vers 29/21
+| Unite de Joueur 1 en 28/10 se deplace vers 29/11
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/10
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/13
+| Unite de Joueur 1 en 28/19 se deplace vers 29/20
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 29/3 se deplace vers 29/6
+| Unite de Joueur 1 en 28/15 se deplace vers 29/17
+| Unite de Joueur 1 en 29/11 se deplace vers 29/10
+| Unite de Joueur 1 en 29/12 se deplace vers 29/13
+| Unite de Joueur 1 en 29/13 se deplace vers 29/12
+| Unite de Joueur 1 en 29/14 se deplace vers 29/16
+| Unite de Joueur 1 en 29/16 se deplace vers 29/15
+| Unite de Joueur 1 en 29/20 se deplace vers 29/19
+| Unite de Joueur 1 en 29/22 se deplace vers 29/25
+| Unite de Joueur 1 en 29/17 se deplace vers 29/18
+| Unite de Joueur 1 en 29/25 se deplace vers 29/29
+| Foret en 7/23  nait
+| Foret en 8/17  nait
+| Foret en 12/9  nait
+| Foret en 13/2  meurt
+| Foret en 22/26  nait
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/19 attaque batiment pour 9 en 16/18
+| Unite de Joueur 1 en 17/19 attaque batiment pour 9 en 16/18
+| Unite de Joueur 1 en 20/19 attaque batiment pour 8 en 16/18
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 20/19 attaque batiment pour 8 en 16/18
+| Unite de Joueur 1 en 27/9 se deplace vers 29/8
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 25/17 se deplace vers 26/17
+| Unite de Joueur 1 en 26/17 se deplace vers 25/17
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 27/10 se deplace vers 29/11
+| Unite de Joueur 1 en 27/14 se deplace vers 29/14
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 29/6 se deplace vers 29/7
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/13 se deplace vers 28/16
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 28/16 se deplace vers 29/17
+| Unite de Joueur 1 en 29/7 se deplace vers 29/5
+| Unite de Joueur 1 en 29/11 se deplace vers 28/12
+| Unite de Joueur 1 en 29/10 se deplace vers 29/11
+| Unite de Joueur 1 en 29/8 se deplace vers 29/10
+| Unite de Joueur 1 en 29/15 se deplace vers 29/16
+| Unite de Joueur 1 en 29/12 se deplace vers 29/13
+| Unite de Joueur 1 en 29/11 se deplace vers 29/12
+| Unite de Joueur 1 en 29/14 se deplace vers 29/15
+| Unite de Joueur 1 en 29/13 se deplace vers 29/14
+| Unite de Joueur 1 en 29/16 se deplace vers 28/17
+| Unite de Joueur 1 en 29/18 se deplace vers 28/20
+| Unite de Joueur 1 en 28/20 se deplace vers 29/22
+| Unite de Joueur 1 en 29/19 se deplace vers 29/20
+| Unite de Joueur 1 en 29/20 se deplace vers 29/19
+| Unite de Joueur 1 en 29/21 se deplace vers 29/20
+| Unite de Joueur 1 en 29/20 se deplace vers 29/21
+| Unite de Joueur 1 en 29/29 se deplace vers 29/28
+| Unite de Joueur 1 en 29/28 se deplace vers 29/29
+| Foret en 2/22  nait
+| Foret en 6/25  nait
+| Foret en 14/18  nait
+| Foret en 22/9  nait
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/19 attaque batiment pour 9 en 16/18
+| Unite de Joueur 1 en 17/19 attaque batiment pour 9 en 16/18
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 25/17 se deplace vers 26/17
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 20/19 attaque batiment pour 8 en 16/18
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 20/19 attaque batiment pour 8 en 16/18
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 26/17 se deplace vers 25/17
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 29/5 se deplace vers 29/9
+| Unite de Joueur 1 en 28/17 se deplace vers 29/18
+| Unite de Joueur 1 en 29/9 se deplace vers 29/8
+| Unite de Joueur 1 en 28/12 se deplace vers 29/11
+| Unite de Joueur 1 en 29/10 se deplace vers 29/9
+| Unite de Joueur 1 en 29/11 se deplace vers 29/10
+| Unite de Joueur 1 en 29/15 se deplace vers 29/16
+| Unite de Joueur 1 en 29/21 se deplace vers 29/20
+| Unite de Joueur 1 en 29/14 se deplace vers 29/15
+| Unite de Joueur 1 en 29/12 se deplace vers 29/14
+| Unite de Joueur 1 en 29/16 se deplace vers 28/18
+| Unite de Joueur 1 en 29/14 se deplace vers 29/13
+| Unite de Joueur 1 en 29/17 se deplace vers 29/16
+| Unite de Joueur 1 en 29/15 se deplace vers 29/14
+| Unite de Joueur 1 en 29/20 se deplace vers 29/21
+| Unite de Joueur 1 en 29/16 se deplace vers 29/17
+| Unite de Joueur 1 en 29/19 se deplace vers 29/20
+| Unite de Joueur 1 en 29/20 se deplace vers 29/19
+| Unite de Joueur 1 en 29/29 se deplace vers 29/28
+| Unite de Joueur 1 en 29/22 se deplace vers 29/25
+| Unite de Joueur 1 en 29/28 se deplace vers 29/29
+| Unite de Joueur 1 en 29/25 se deplace vers 29/28
+| Foret en 16/24  nait
+| Foret en 19/19  nait
+| Foret en 21/1  nait
+| Foret en 22/27  nait
+| Foret en 24/26  nait
+| Foret en 29/28  nait
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/19 attaque batiment pour 9 en 16/18
+| Unite de Joueur 1 en 20/19 attaque batiment pour 8 en 16/18
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/19 attaque batiment pour 9 en 16/18
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 20/19 attaque batiment pour 8 en 16/18
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 28/18 se deplace vers 29/20
+| Unite de Joueur 1 en 25/17 se deplace vers 26/17
+| Unite de Joueur 1 en 26/17 se deplace vers 25/17
+| Unite de Joueur 1 en 29/8 se deplace vers 29/7
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 29/7 se deplace vers 29/8
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 29/10 se deplace vers 29/12
+| Unite de Joueur 1 en 29/9 se deplace vers 29/11
+| Unite de Joueur 1 en 29/11 se deplace vers 29/10
+| Unite de Joueur 1 en 29/12 se deplace vers 29/11
+| Unite de Joueur 1 en 29/13 se deplace vers 29/12
+| Unite de Joueur 1 en 29/14 se deplace vers 29/16
+| Unite de Joueur 1 en 29/17 se deplace vers 29/15
+| Unite de Joueur 1 en 29/16 se deplace vers 29/17
+| Unite de Joueur 1 en 29/15 se deplace vers 29/16
+| Unite de Joueur 1 en 29/18 se deplace vers 28/20
+| Unite de Joueur 1 en 28/20 se deplace vers 29/22
+| Unite de Joueur 1 en 29/19 se deplace vers 29/18
+| Unite de Joueur 1 en 29/21 se deplace vers 28/23
+| Unite de Joueur 1 en 29/20 se deplace vers 29/21
+| Unite de Joueur 1 en 29/29 se deplace vers 29/27
+| Unite de Joueur 1 en 28/23 se deplace vers 29/24
+| Unite de Joueur 1 en 29/27 se deplace vers 29/29
+| Unite de Joueur 1 en 29/28 se deplace vers 29/27
+| Unite de Joueur 1 en 29/18 se deplace vers 29/20
+| Unite de Joueur 1 en 29/27 se deplace vers 29/28
+| Foret en 4/13  nait
+| Foret en 16/23  nait
+| Foret en 20/20  nait
+| Foret en 26/20  nait
+| Foret en 29/8  nait
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/19 attaque batiment pour 9 en 16/18
+| Unite de Joueur 1 en 17/19 attaque batiment pour 9 en 16/18
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 18/18 attaque batiment pour 6 en 17/18
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 21/16 attaque batiment pour 7 en 16/16
+| Unite de Joueur 1 en 20/19 attaque batiment pour 8 en 16/18
+| Unite de Joueur 1 en 20/19 attaque batiment pour 8 en 16/18
+| Unite de Joueur 1 en 25/17 se deplace vers 26/17
+| Unite de Joueur 1 en 26/17 se deplace vers 25/17
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 29/8 se deplace vers 29/9
+| Unite de Joueur 1 en 29/10 se deplace vers 28/12
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 28/12 se deplace vers 29/10
+| Unite de Joueur 1 en 29/11 se deplace vers 28/12
+| Unite de Joueur 1 en 29/12 se deplace vers 29/15
+| Unite de Joueur 1 en 29/9 se deplace vers 29/8
+| Unite de Joueur 1 en 29/15 se deplace vers 29/14
+| Unite de Joueur 1 en 28/12 se deplace vers 29/13
+| Unite de Joueur 1 en 29/16 se deplace vers 29/18
+| Unite de Joueur 1 en 29/21 se deplace vers 28/23
+| Unite de Joueur 1 en 28/23 se deplace vers 29/25
+| Unite de Joueur 1 en 29/17 se deplace vers 29/16
+| Unite de Joueur 1 en 29/16 se deplace vers 29/17
+| Unite de Joueur 1 en 29/22 se deplace vers 29/23
+| Unite de Joueur 1 en 29/23 se deplace vers 29/22
+| Unite de Joueur 1 en 29/20 se deplace vers 29/21
+| Unite de Joueur 1 en 29/21 se deplace vers 29/23
+| Unite de Joueur 1 en 29/24 se deplace vers 28/26
+| Unite de Joueur 1 en 28/26 se deplace vers 29/27
+| Unite de Joueur 1 en 29/28 se deplace vers 28/29
+| Unite de Joueur 1 en 28/29 se deplace vers 29/28
+| Unite de Joueur 1 en 29/18 se deplace vers 29/21
+| Unite de Joueur 1 en 29/29 se deplace vers 28/29
+| Unite de Joueur 1 en 28/29 se deplace vers 29/29
+| Foret en 1/28  nait
+| Foret en 4/29  nait
+| Foret en 14/1  nait
+| Foret en 19/10  nait
+| Unite de Joueur 1 en 17/19 attaque batiment pour 9 en 16/18
+| Unite de Joueur 1 en 17/14 attaque batiment pour 9 en 16/16
+| Unite de Joueur 1 en 17/14 detruit batiment de 0 en 16/16
+| Unite de Joueur 1 en 17/14 se deplace vers 16/16
+| Unite de Joueur 1 en 20/19 se deplace vers 19/20
+| Unite de Joueur 1 en 18/18 se deplace vers 15/18
+| Unite de Joueur 1 en 21/16 se deplace vers 18/17
+| Unite de Joueur 1 en 17/19 se deplace vers 15/19
+| Unite de Joueur 1 en 15/18 attaque pour 18 en 14/18
+| Unite de Joueur 1 en 18/17 attaque pour 20 en 14/18
+| Unite de Joueur 1 en 19/20 se deplace vers 16/20
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 29/13 se deplace vers 27/13
+| Unite de Joueur 1 en 25/17 se deplace vers 23/18
+| Unite de Joueur 1 en 23/18 se deplace vers 25/17
+| Unite de Joueur 1 en 27/13 se deplace vers 24/14
+| Unite de Joueur 1 en 29/8 se deplace vers 27/9
+| Unite de Joueur 1 en 29/10 se deplace vers 28/12
+| Unite de Joueur 1 en 27/9 se deplace vers 25/11
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 29/14 se deplace vers 26/14
+| Unite de Joueur 1 en 26/14 se deplace vers 24/15
+| Unite de Joueur 1 en 28/12 se deplace vers 26/13
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 29/17 se deplace vers 28/19
+| Unite de Joueur 1 en 28/19 se deplace vers 28/21
+| Unite de Joueur 1 en 29/21 se deplace vers 27/19
+| Unite de Joueur 1 en 29/22 se deplace vers 27/21
+| Unite de Joueur 1 en 27/19 se deplace vers 25/21
+| Unite de Joueur 1 en 27/21 se deplace vers 25/22
+| Unite de Joueur 1 en 29/23 se deplace vers 25/23
+| Unite de Joueur 1 en 29/29 se deplace vers 28/26
+| Unite de Joueur 1 en 25/23 se deplace vers 23/21
+| Unite de Joueur 1 en 29/25 se deplace vers 28/23
+| Unite de Joueur 1 en 28/23 se deplace vers 25/23
+| Unite de Joueur 1 en 29/27 se deplace vers 27/26
+| Unite de Joueur 1 en 27/26 se deplace vers 25/26
+| Unite de Joueur 1 en 28/26 se deplace vers 25/27
+| Unite de Joueur 1 en 29/28 se deplace vers 27/28
+| Unite de Joueur 1 en 27/28 se deplace vers 25/28
+| Foret en 1/27  nait
+| Foret en 11/24  nait
+| Foret en 13/24  nait
+| Foret en 28/20  nait
+| Unite de Joueur 1 en 15/18 attaque pour 18 en 14/18
+| Unite de Joueur 1 en 15/18 tue Unite de 0 en 14/18
+| Unite de Joueur 1 en 15/18 se deplace vers 14/18
+| Unite de Joueur 1 en 14/18 attaque pour 20 en 13/18
+| Unite de Joueur 1 en 16/16 attaque pour 30 en 14/16
+| Unite de Joueur 1 en 15/19 attaque pour 28 en 13/19
+| Unite de Joueur 1 en 15/19 tue Unite de 0 en 13/19
+| Unite de Joueur 1 en 16/16 attaque pour 30 en 14/16
+| Unite de Joueur 1 en 16/16 tue Unite de 0 en 14/16
+| Unite de Joueur 1 en 18/17 attaque pour 20 en 14/17
+| Unite de Joueur 1 en 18/17 attaque pour 20 en 14/17
+| Unite de Joueur 1 en 18/17 tue Unite de 0 en 14/17
+| Unite de Joueur 1 en 25/11 se deplace vers 24/13
+| Unite de Joueur 1 en 23/21 se deplace vers 20/21
+| Unite de Joueur 1 en 15/19 attaque pour 31 en 14/19
+| Unite de Joueur 1 en 16/20 attaque pour 26 en 14/19
+| Unite de Joueur 1 en 16/20 tue Unite de 0 en 14/19
+| Unite de Joueur 1 en 24/13 se deplace vers 21/14
+| Unite de Joueur 1 en 16/20 attaque pour 24 en 12/20
+| Unite de Joueur 1 en 24/15 se deplace vers 21/15
+| Unite de Joueur 1 en 21/15 se deplace vers 20/14
+| Unite de Joueur 1 en 20/21 se deplace vers 16/21
+| Unite de Joueur 1 en 25/21 se deplace vers 24/23
+| Unite de Joueur 1 en 24/23 se deplace vers 21/23
+| Unite de Joueur 1 en 24/14 se deplace vers 24/18
+| Unite de Joueur 1 en 24/18 se deplace vers 27/19
+| Unite de Joueur 1 en 25/22 se deplace vers 22/22
+| Unite de Joueur 1 en 22/22 se deplace vers 20/23
+| Unite de Joueur 1 en 25/17 se deplace vers 23/18
+| Unite de Joueur 1 en 23/18 se deplace vers 25/19
+| Unite de Joueur 1 en 25/27 se deplace vers 23/26
+| Unite de Joueur 1 en 25/26 se deplace vers 24/27
+| Unite de Joueur 1 en 24/27 se deplace vers 22/26
+| Unite de Joueur 1 en 25/28 se deplace vers 23/29
+| Unite de Joueur 1 en 23/26 se deplace vers 22/29
+| Unite de Joueur 1 en 25/23 se deplace vers 23/22
+| Unite de Joueur 1 en 23/22 se deplace vers 21/22
+| Unite de Joueur 1 en 23/29 se deplace vers 21/28
+| Unite de Joueur 1 en 26/13 se deplace vers 25/15
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 25/15 se deplace vers 24/17
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 28/21 se deplace vers 25/21
+| Unite de Joueur 1 en 25/21 se deplace vers 23/21
+| Foret en 12/17  nait
+| Foret en 18/8  nait
+| Foret en 20/3  nait
+| Foret en 22/29  nait
+| Foret en 26/21  nait
+| Foret en 28/2  nait
+| Unite de Joueur 1 en 14/18 attaque pour 20 en 13/18
+| Unite de Joueur 1 en 14/18 tue Unite de 0 en 13/18
+| Unite de Joueur 1 en 16/20 attaque pour 24 en 12/20
+| Unite de Joueur 1 en 16/20 tue Unite de 0 en 12/20
+| Unite de Joueur 1 en 15/19 se deplace vers 13/19
+| Unite de Joueur 1 en 13/19 attaque pour 29 en 12/19
+| Unite de Joueur 1 en 13/19 tue Unite de 0 en 12/19
+| Unite de Joueur 1 en 14/18 se deplace vers 13/18
+| Unite de Joueur 1 en 13/18 attaque pour 23 en 12/18
+| Unite de Joueur 1 en 18/17 attaque pour 23 en 13/17
+| Unite de Joueur 1 en 16/20 attaque pour 29 en 13/20
+| Unite de Joueur 1 en 20/23 se deplace vers 20/20
+| Unite de Joueur 1 en 16/16 se deplace vers 14/16
+| Unite de Joueur 1 en 16/21 se deplace vers 14/20
+| Unite de Joueur 1 en 14/20 attaque pour 30 en 13/20
+| Unite de Joueur 1 en 14/20 tue Unite de 0 en 13/20
+| Unite de Joueur 0 en 13/17 block Unite de 1 en 14/16 
+| Unite de Joueur 1 en 20/14 se deplace vers 18/14
+| Unite de Joueur 1 en 18/17 attaque pour 23 en 13/17
+| Unite de Joueur 1 en 18/17 tue Unite de 0 en 13/17
+| Unite de Joueur 1 en 18/14 se deplace vers 16/15
+| Unite de Joueur 1 en 20/20 se deplace vers 20/22
+| Unite de Joueur 1 en 21/28 se deplace vers 19/29
+| Unite de Joueur 1 en 19/29 se deplace vers 16/29
+| Unite de Joueur 1 en 21/14 se deplace vers 17/14
+| Unite de Joueur 0 en 13/16 block Unite de 1 en 17/14 
+| Unite de Joueur 1 en 21/22 se deplace vers 20/21
+| Unite de Joueur 1 en 22/26 se deplace vers 21/25
+| Unite de Joueur 1 en 20/21 se deplace vers 19/23
+| Unite de Joueur 1 en 22/29 se deplace vers 19/29
+| Unite de Joueur 1 en 19/29 se deplace vers 19/25
+| Unite de Joueur 1 en 24/17 se deplace vers 22/18
+| Unite de Joueur 1 en 22/18 se deplace vers 22/21
+| Unite de Joueur 1 en 21/23 se deplace vers 18/24
+| Unite de Joueur 1 en 21/25 se deplace vers 22/27
+| Unite de Joueur 1 en 18/24 se deplace vers 15/25
+| Unite de Joueur 1 en 23/21 se deplace vers 23/19
+| Unite de Joueur 1 en 23/19 se deplace vers 21/18
+| Unite de Joueur 1 en 27/19 se deplace vers 25/21
+| Unite de Joueur 1 en 25/19 se deplace vers 23/19
+| Unite de Joueur 1 en 23/19 se deplace vers 20/19
+| Unite de Joueur 1 en 25/21 se deplace vers 23/20
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Foret en 1/24  nait
+| Foret en 4/20  nait
+| Foret en 5/13  nait
+| Foret en 6/20  meurt
+| Foret en 14/29  nait
+| Foret en 25/3  nait
+| Foret en 26/6  nait
+| Foret en 26/9  nait
+| Foret en 27/24  meurt
+| Unite de Joueur 1 en 14/20 se deplace vers 12/20
+| Unite de Joueur 1 en 13/18 attaque pour 23 en 12/18
+| Unite de Joueur 1 en 13/18 tue Unite de 0 en 12/18
+| Unite de Joueur 1 en 16/15 se deplace vers 13/15
+| Unite de Joueur 1 en 12/20 attaque pour 29 en 11/20
+| Unite de Joueur 1 en 12/20 tue Unite de 0 en 11/20
+| Unite de Joueur 0 en 13/16 block Unite de 1 en 13/15 
+| Unite de Joueur 1 en 13/18 se deplace vers 13/17
+| Unite de Joueur 1 en 13/19 attaque pour 33 en 11/19
+| Unite de Joueur 1 en 13/17 attaque pour 25 en 12/16
+| Unite de Joueur 1 en 13/17 tue Unite de 0 en 12/16
+| Unite de Joueur 1 en 13/19 attaque pour 33 en 11/19
+| Unite de Joueur 1 en 13/19 tue Unite de 0 en 11/19
+| Unite de Joueur 1 en 13/17 attaque pour 27 en 11/17
+| Unite de Joueur 1 en 15/25 se deplace vers 13/24
+| Unite de Joueur 1 en 13/24 se deplace vers 12/22
+| Unite de Joueur 1 en 14/16 attaque pour 19 en 13/16
+| Unite de Joueur 0 en 13/16 block Unite de 1 en 14/16 
+| Unite de Joueur 1 en 18/17 se deplace vers 16/18
+| Unite de Joueur 0 en 13/16 block Unite de 1 en 16/18 
+| Unite de Joueur 1 en 16/29 se deplace vers 15/27
+| Unite de Joueur 1 en 16/20 se deplace vers 15/18
+| Unite de Joueur 1 en 19/25 se deplace vers 21/23
+| Unite de Joueur 1 en 15/18 attaque pour 18 en 13/16
+| Unite de Joueur 1 en 15/18 tue Unite de 0 en 13/16
+| Unite de Joueur 1 en 15/27 se deplace vers 14/25
+| Unite de Joueur 1 en 20/19 se deplace vers 18/19
+| Unite de Joueur 1 en 17/14 se deplace vers 14/14
+| Unite de Joueur 1 en 14/14 attaque pour 20 en 11/17
+| Unite de Joueur 1 en 14/14 tue Unite de 0 en 11/17
+| Unite de Joueur 1 en 18/19 se deplace vers 16/19
+| Unite de Joueur 1 en 19/23 se deplace vers 19/20
+| Unite de Joueur 1 en 19/20 se deplace vers 16/20
+| Unite de Joueur 1 en 20/22 se deplace vers 18/21
+| Unite de Joueur 1 en 18/21 se deplace vers 15/21
+| Unite de Joueur 1 en 21/18 se deplace vers 19/17
+| Unite de Joueur 1 en 21/23 se deplace vers 21/19
+| Unite de Joueur 1 en 19/17 se deplace vers 16/17
+| Unite de Joueur 1 en 22/21 se deplace vers 22/18
+| Unite de Joueur 1 en 22/18 se deplace vers 20/17
+| Unite de Joueur 1 en 23/20 se deplace vers 22/18
+| Unite de Joueur 1 en 22/18 se deplace vers 19/17
+| Unite de Joueur 1 en 22/27 se deplace vers 22/25
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 22/25 se deplace vers 21/23
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Foret en 14/5  nait
+| Foret en 17/23  nait
+| Unite de Joueur 1 en 13/15 se deplace vers 12/16
+| Unite de Joueur 1 en 12/16 attaque pour 19 en 11/16
+| Unite de Joueur 1 en 13/17 attaque pour 16 en 12/17
+| Unite de Joueur 1 en 13/19 se deplace vers 12/18
+| Unite de Joueur 1 en 12/18 attaque pour 19 en 12/17
+| Unite de Joueur 1 en 12/18 tue Unite de 0 en 12/17
+| Unite de Joueur 1 en 12/20 se deplace vers 14/18
+| Unite de Joueur 1 en 12/22 se deplace vers 9/22
+| Unite de Joueur 1 en 9/22 se deplace vers 5/22
+| Unite de Joueur 1 en 13/17 se deplace vers 11/17
+| Unite de Joueur 0 en 11/16 block Unite de 1 en 14/14 
+| Unite de Joueur 1 en 14/14 attaque pour 22 en 11/16
+| Unite de Joueur 1 en 14/14 tue Unite de 0 en 11/16
+| Unite de Joueur 1 en 14/16 se deplace vers 11/15
+| Unite de Joueur 1 en 11/15 attaque pour 31 en 10/16
+| Unite de Joueur 1 en 14/18 se deplace vers 14/15
+| Unite de Joueur 1 en 15/18 se deplace vers 14/16
+| Unite de Joueur 1 en 14/16 attaque pour 32 en 10/16
+| Unite de Joueur 1 en 14/16 tue Unite de 0 en 10/16
+| Unite de Joueur 1 en 14/25 se deplace vers 13/23
+| Unite de Joueur 1 en 13/23 se deplace vers 12/21
+| Unite de Joueur 1 en 16/17 se deplace vers 13/17
+| Unite de Joueur 1 en 13/17 attaque pour 23 en 10/17
+| Unite de Joueur 1 en 16/19 se deplace vers 17/17
+| Unite de Joueur 1 en 15/21 se deplace vers 15/18
+| Unite de Joueur 1 en 16/18 se deplace vers 16/14
+| Unite de Joueur 1 en 15/18 se deplace vers 15/15
+| Unite de Joueur 1 en 19/17 se deplace vers 17/15
+| Unite de Joueur 1 en 16/14 se deplace vers 17/12
+| Unite de Joueur 1 en 17/15 se deplace vers 18/12
+| Unite de Joueur 1 en 20/17 se deplace vers 21/15
+| Unite de Joueur 1 en 16/20 se deplace vers 13/20
+| Unite de Joueur 1 en 13/20 se deplace vers 11/21
+| Unite de Joueur 1 en 17/17 se deplace vers 17/14
+| Unite de Joueur 1 en 21/15 se deplace vers 22/14
+| Unite de Joueur 1 en 21/23 se deplace vers 19/24
+| Unite de Joueur 1 en 19/24 se deplace vers 16/24
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 21/19 se deplace vers 21/16
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 21/16 se deplace vers 23/14
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 0 en 10/17 se deplace vers 7/17
+| Unite de Joueur 0 en 7/17 se deplace vers 4/17
+| Foret en 17/4  nait
+| Foret en 22/4  nait
+| Unite de Joueur 1 en 11/17 se deplace vers 9/17
+| Unite de Joueur 1 en 5/22 se deplace vers 2/23
+| Unite de Joueur 1 en 9/17 se deplace vers 7/17
+| Unite de Joueur 1 en 2/23 se deplace vers 2/19
+| Unite de Joueur 1 en 14/14 se deplace vers 11/14
+| Unite de Joueur 1 en 11/14 se deplace vers 9/16
+| Unite de Joueur 1 en 11/15 se deplace vers 8/15
+| Unite de Joueur 1 en 11/21 se deplace vers 9/22
+| Unite de Joueur 1 en 8/15 se deplace vers 6/16
+| Unite de Joueur 1 en 9/22 se deplace vers 6/22
+| Unite de Joueur 1 en 12/16 se deplace vers 10/17
+| Unite de Joueur 1 en 10/17 se deplace vers 8/17
+| Unite de Joueur 1 en 12/18 se deplace vers 11/15
+| Unite de Joueur 1 en 11/15 se deplace vers 8/15
+| Unite de Joueur 1 en 13/17 se deplace vers 13/15
+| Unite de Joueur 1 en 12/21 se deplace vers 12/19
+| Unite de Joueur 1 en 12/19 se deplace vers 12/16
+| Unite de Joueur 1 en 13/15 se deplace vers 11/14
+| Unite de Joueur 1 en 14/16 se deplace vers 12/15
+| Unite de Joueur 1 en 12/15 se deplace vers 10/14
+| Unite de Joueur 1 en 15/15 se deplace vers 14/16
+| Unite de Joueur 1 en 14/15 se deplace vers 10/15
+| Unite de Joueur 1 en 14/16 se deplace vers 14/13
+| Unite de Joueur 1 en 10/15 se deplace vers 7/14
+| Unite de Joueur 1 en 17/12 se deplace vers 15/14
+| Unite de Joueur 1 en 16/24 se deplace vers 15/25
+| Unite de Joueur 1 en 15/14 se deplace vers 13/12
+| Unite de Joueur 1 en 17/14 se deplace vers 15/14
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 18/12 se deplace vers 17/15
+| Unite de Joueur 1 en 15/14 se deplace vers 13/13
+| Unite de Joueur 1 en 15/25 se deplace vers 13/25
+| Unite de Joueur 1 en 17/15 se deplace vers 13/15
+| Unite de Joueur 1 en 22/14 se deplace vers 19/14
+| Unite de Joueur 1 en 19/14 se deplace vers 16/14
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 23/14 se deplace vers 19/14
+| Unite de Joueur 1 en 19/14 se deplace vers 16/15
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 0 en 4/17 se deplace vers 3/14
+| Unite de Joueur 0 en 3/14 se deplace vers 2/11
+| Foret en 1/27  meurt
+| Foret en 5/1  nait
+| Foret en 5/24  nait
+| Foret en 7/21  nait
+| Foret en 11/19  nait
+| Foret en 26/17  nait
+| Foret en 29/21  nait
+| Unite de Joueur 1 en 7/14 se deplace vers 4/13
+| Unite de Joueur 1 en 6/22 se deplace vers 4/23
+| Unite de Joueur 1 en 2/19 se deplace vers 2/16
+| Unite de Joueur 1 en 2/16 se deplace vers 2/12
+| Unite de Joueur 1 en 4/23 se deplace vers 2/22
+| Unite de Joueur 1 en 4/13 se deplace vers 3/11
+| Unite de Joueur 1 en 7/17 se deplace vers 7/15
+| Unite de Joueur 1 en 6/16 se deplace vers 4/14
+| Unite de Joueur 1 en 8/15 se deplace vers 8/12
+| Unite de Joueur 1 en 8/12 se deplace vers 6/10
+| Unite de Joueur 1 en 4/14 se deplace vers 2/13
+| Unite de Joueur 1 en 10/14 se deplace vers 8/14
+| Unite de Joueur 1 en 7/15 se deplace vers 6/14
+| Unite de Joueur 1 en 8/14 se deplace vers 6/13
+| Unite de Joueur 1 en 12/16 se deplace vers 10/15
+| Unite de Joueur 1 en 8/17 se deplace vers 8/15
+| Unite de Joueur 1 en 8/15 se deplace vers 6/15
+| Unite de Joueur 1 en 9/16 se deplace vers 5/16
+| Unite de Joueur 1 en 5/16 se deplace vers 4/14
+| Unite de Joueur 1 en 16/14 se deplace vers 14/14
+| Unite de Joueur 1 en 11/14 se deplace vers 10/12
+| Unite de Joueur 1 en 10/12 se deplace vers 9/10
+| Unite de Joueur 1 en 10/15 se deplace vers 8/16
+| Unite de Joueur 1 en 13/12 se deplace vers 10/12
+| Unite de Joueur 1 en 10/12 se deplace vers 8/10
+| Unite de Joueur 1 en 13/25 se deplace vers 12/23
+| Unite de Joueur 1 en 12/23 se deplace vers 12/20
+| Unite de Joueur 1 en 13/13 se deplace vers 12/12
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 14/13 se deplace vers 12/14
+| Unite de Joueur 1 en 12/12 se deplace vers 10/12
+| Unite de Joueur 1 en 12/14 se deplace vers 10/13
+| Unite de Joueur 1 en 27/11 soigne de 14 en 27/11
+| Unite de Joueur 1 en 13/15 se deplace vers 9/15
+| Unite de Joueur 1 en 9/15 se deplace vers 7/16
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 1 en 14/14 se deplace vers 12/14
+| Unite de Joueur 1 en 16/15 se deplace vers 12/15
+| Unite de Joueur 1 en 12/15 se deplace vers 9/14
+| Unite de Joueur 1 en 28/13 soigne de 14 en 28/13
+| Unite de Joueur 0 en 2/11 se deplace vers 2/8
+| Unite de Joueur 0 en 2/8 se deplace vers 4/6
+| Foret en 10/4  nait
+| Foret en 16/5  meurt
+| Foret en 21/7  nait
+| Foret en 23/10  nait
+| Unite de Joueur 1 en 2/12 se deplace vers 2/8
+| Unite de Joueur 1 en 2/13 se deplace vers 2/9
+| Unite de Joueur 1 en 2/8 se deplace vers 3/6
+| Unite de Joueur 1 en 2/9 se deplace vers 3/7
+| Unite de Joueur 1 en 2/22 se deplace vers 2/20
+| Unite de Joueur 1 en 3/11 se deplace vers 4/8
+| Unite de Joueur 1 en 2/20 se deplace vers 2/17
+| Unite de Joueur 1 en 4/14 se deplace vers 4/11
+| Unite de Joueur 1 en 4/8 attaque pour 29 en 4/6
+| Unite de Joueur 1 en 4/8 tue Unite de 0 en 4/6
+| Le Joueur 0 a ete elimine.
+LE JOUEUR 1 GAGNE EN 16 TOURS !
+| Foret en 1/5  nait
+| Foret en 2/5  meurt
+| Foret en 2/21  nait
+| Foret en 4/23  nait
+| Foret en 7/14  nait
+| Foret en 9/16  nait
+| Foret en 12/28  nait
+| Foret en 17/4  meurt
+| Foret en 20/20  meurt
+| Foret en 26/28  nait
+| Foret en 29/26  nait

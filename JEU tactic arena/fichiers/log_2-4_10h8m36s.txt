@@ -1,0 +1,45 @@
+| Unite de Joueur 0 en 18/9 se deplace vers 18/8
+| Unite de Joueur 0 en 17/10 se deplace vers 14/9
+| Unite de Joueur 0 en 18/8 se deplace vers 18/6
+| Unite de Joueur 0 en 19/9 se deplace vers 17/7
+| Unite de Joueur 0 en 18/10 se deplace vers 14/10
+| Unite de Joueur 1 en 8/3 soigne de 14 en 8/3
+| Unite de Joueur 1 en 7/2 se deplace vers 6/4
+| Unite de Joueur 1 en 6/4 se deplace vers 6/7
+| Unite de Joueur 1 en 8/3 soigne de 14 en 8/3
+| Unite de Joueur 1 en 8/2 se deplace vers 10/2
+| Unite de Joueur 2 en 3/17 se deplace vers 3/15
+| Unite de Joueur 2 en 4/19 se deplace vers 6/17
+| Unite de Joueur 2 en 4/18 se deplace vers 7/18
+| Unite de Joueur 2 en 3/15 se deplace vers 3/14
+| Unite de Joueur 2 en 3/18 se deplace vers 3/15
+| Unite de Joueur 0 en 17/11 soigne de 14 en 18/11
+| Unite de Joueur 0 en 17/11 soigne de 14 en 17/11
+| Unite de Joueur 0 en 17/9 se deplace vers 16/8
+| Unite de Joueur 0 en 17/11 soigne de 14 en 17/11
+| Unite de Joueur 0 en 14/10 se deplace vers 13/7
+| Unite de Joueur 1 en 9/2 se deplace vers 9/4
+| Unite de Joueur 1 en 7/4 se deplace vers 7/7
+| Unite de Joueur 1 en 8/4 se deplace vers 8/7
+| Unite de Joueur 1 en 10/2 se deplace vers 10/6
+| Unite de Joueur 1 en 7/3 soigne de 14 en 7/3
+| Unite de Joueur 2 en 4/17 se deplace vers 5/13
+| Unite de Joueur 2 en 3/15 se deplace vers 2/14
+| Unite de Joueur 2 en 7/18 se deplace vers 7/16
+| Unite de Joueur 2 en 3/14 se deplace vers 2/13
+| Unite de Joueur 2 en 6/17 se deplace vers 6/13
+| Unite de Joueur 0 en 18/6 se deplace vers 16/6
+| Unite de Joueur 0 en 16/6 se deplace vers 15/6
+| Unite de Joueur 0 en 18/11 se deplace vers 14/10
+| Unite de Joueur 0 en 14/9 se deplace vers 12/7
+| Unite de Joueur 0 en 12/7 attaque pour 21 en 8/7
+| Unite de Joueur 0 en 13/7 block Unite de 1 en 8/7 
+| Unite de Joueur 1 en 9/4 se deplace vers 9/5
+| Unite de Joueur 1 en 7/3 soigne de 14 en 7/3
+| Unite de Joueur 1 en 7/7 se deplace vers 9/7
+| Unite de Joueur 0 en 13/7 block Unite de 1 en 8/7 
+| Unite de Joueur 2 en 7/16 se deplace vers 8/14
+| Unite de Joueur 2 en 5/17 se deplace vers 5/15
+| Unite de Joueur 2 en 6/13 se deplace vers 8/11
+| Unite de Joueur 2 en 2/14 se deplace vers 1/12
+| Unite de Joueur 2 en 8/14 se deplace vers 9/12

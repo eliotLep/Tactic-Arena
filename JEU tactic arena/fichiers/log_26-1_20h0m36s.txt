@@ -1,0 +1,55 @@
+MAP : 30 x 30 || Joueurs : 2 || UNITEE : 7 par joueurs
+| Unite de Joueur 0 en 3/7 se deplace vers 7/7
+| Unite de Joueur 0 en 2/7 se deplace vers 4/7
+| Unite de Joueur 0 en 2/8 se deplace vers 3/7
+| Unite de Joueur 0 en 2/9 se deplace vers 4/10
+| Unite de Joueur 0 en 1/8 se deplace vers 3/9
+| Unite de Joueur 0 en 1/9 se deplace vers 3/11
+| Unite de Joueur 0 en 1/7 se deplace vers 2/9
+| Unite de Joueur 0 en 7/7 se deplace vers 7/11
+| Unite de Joueur 0 en 4/10 se deplace vers 6/11
+| Unite de Joueur 0 en 3/11 se deplace vers 6/12
+| Unite de Joueur 0 en 3/9 se deplace vers 5/10
+| Unite de Joueur 0 en 2/9 se deplace vers 4/10
+| Unite de Joueur 0 en 3/7 se deplace vers 2/9
+| Unite de Joueur 0 en 4/7 se deplace vers 6/8
+| Unite de Joueur 1 en 24/28 se deplace vers 23/26
+| Unite de Joueur 1 en 23/26 se deplace vers 22/24
+| Unite de Joueur 1 en 25/28 se deplace vers 23/27
+| Unite de Joueur 1 en 24/27 se deplace vers 24/25
+| Unite de Joueur 1 en 26/28 se deplace vers 24/27
+| Unite de Joueur 1 en 25/29 se deplace vers 23/28
+| Unite de Joueur 1 en 24/29 se deplace vers 22/28
+| Unite de Joueur 1 en 22/28 se deplace vers 22/25
+| Unite de Joueur 1 en 23/27 se deplace vers 23/25
+| Unite de Joueur 1 en 26/29 se deplace vers 24/28
+| Unite de Joueur 1 en 23/28 se deplace vers 23/26
+| Unite de Joueur 1 en 24/27 se deplace vers 24/26
+| Unite de Joueur 1 en 24/28 se deplace vers 23/27
+| Unite de Joueur 1 en 24/25 se deplace vers 23/24
+| Foret en 1/10  nait
+| Foret en 3/1  nait
+| Foret en 6/21  nait
+| Foret en 11/2  nait
+| Foret en 19/28  nait
+| Foret en 25/14  nait
+| Foret en 27/23  nait
+| Joueur 0 pose un bloc en 3/10
+| Unite de Joueur 0 en 7/11 se deplace vers 7/10
+| Joueur 0 pose un chateau en 9/13
+| Unite de Joueur 0 en 7/10 se deplace vers 8/12
+| Unite de Joueur 0 en 6/11 se deplace vers 7/11
+| Unite de Joueur 0 en 6/12 se deplace vers 7/12
+| Unite de Joueur 1 en 22/24 se deplace vers 21/22
+| Unite de Joueur 1 en 21/22 se deplace vers 20/20
+| Unite de Joueur 1 en 23/24 se deplace vers 23/23
+| Joueur 1 pose un bloc en 19/20
+| Unite de Joueur 1 en 23/23 se deplace vers 22/21
+| Unite de Joueur 1 en 23/25 se deplace vers 23/23
+| Unite de Joueur 1 en 23/23 se deplace vers 23/21
+| Unite de Joueur 1 en 22/25 se deplace vers 21/23
+| Unite de Joueur 1 en 21/23 se deplace vers 20/22
+| Unite de Joueur 1 en 23/26 se deplace vers 23/24
+| Unite de Joueur 1 en 23/24 se deplace vers 22/22
+| Unite de Joueur 1 en 24/26 se deplace vers 23/24
+| Unite de Joueur 1 en 23/24 se deplace vers 23/22

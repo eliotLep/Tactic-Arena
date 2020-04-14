@@ -1,0 +1,40 @@
+MAP : 30 x 30 || Joueurs : 2 || UNITEE : 7 par joueurs
+| Unite de Joueur 1 en 2/23 se deplace vers 2/19
+| Unite de Joueur 1 en 2/24 soigne de 14 en 2/25
+| Unite de Joueur 1 en 2/19 se deplace vers 2/15
+| Unite de Joueur 1 en 2/25 se deplace vers 1/22
+| Unite de Joueur 1 en 3/23 se deplace vers 3/20
+| Unite de Joueur 1 en 1/22 se deplace vers 1/18
+| Unite de Joueur 1 en 3/24 se deplace vers 3/21
+| Unite de Joueur 1 en 3/20 se deplace vers 3/17
+| Unite de Joueur 1 en 3/25 se deplace vers 4/22
+| Unite de Joueur 1 en 2/24 soigne de 14 en 2/24
+| Unite de Joueur 1 en 4/23 se deplace vers 5/21
+| Unite de Joueur 1 en 4/22 se deplace vers 4/18
+| Unite de Joueur 1 en 5/21 se deplace vers 5/18
+| Unite de Joueur 1 en 3/21 se deplace vers 4/19
+| Foret en 3/27  nait
+| Foret en 8/16  nait
+| Foret en 9/5  nait
+| Foret en 10/14  nait
+| Foret en 15/21  nait
+| Foret en 16/24  nait
+| Foret en 23/23  nait
+| Foret en 24/10  nait
+| Foret en 24/20  nait
+| Foret en 24/26  nait
+| Foret en 27/23  nait
+| Unite de Joueur 1 en 1/18 se deplace vers 1/14
+| Unite de Joueur 1 en 1/14 se deplace vers 1/10
+| Unite de Joueur 1 en 2/15 se deplace vers 2/11
+| Unite de Joueur 1 en 2/11 se deplace vers 2/7
+| Unite de Joueur 1 en 4/18 se deplace vers 4/14
+| Unite de Joueur 1 en 2/24 se deplace vers 5/24
+| Unite de Joueur 1 en 3/17 se deplace vers 3/14
+| Unite de Joueur 1 en 3/14 se deplace vers 3/11
+| Unite de Joueur 1 en 4/14 se deplace vers 4/10
+| Unite de Joueur 1 en 5/18 se deplace vers 5/15
+| Unite de Joueur 1 en 5/15 se deplace vers 5/12
+| Unite de Joueur 1 en 4/19 se deplace vers 4/16
+| Unite de Joueur 1 en 4/16 se deplace vers 4/13
+| Unite de Joueur 1 en 5/24 se deplace vers 8/24
